@@ -23,7 +23,7 @@ function statSorter(a,b){
 }
 function scrapeStats(baseUrl, fileName, callback){
   var urls = [];
-  for (var i = 0; i < 100; i++) {
+  for (var i = 0; i < 10; i++) {
     console.log(baseUrl + i + "web.html");
     urls.push(
       {
@@ -168,14 +168,14 @@ function scrapeStats(baseUrl, fileName, callback){
 
 app.get('/herrer/', function(req, res){
   var baseUrl = 'http://www.poengliga.no/eliteh';
-  scrapeStats(baseUrl, 'herrer_flat.json', function(json){
+  scrapeStats(baseUrl, 'output/herrer_flat.json', function(json){
     res.send(json);
   });
 })
 
 app.get('/damer/', function(req, res){
   var baseUrl = 'http://www.poengliga.no/elited';
-  scrapeStats(baseUrl, 'damer_flat.json', function(json){
+  scrapeStats(baseUrl, 'output/damer_flat.json', function(json){
     res.send(json);
   });
 })

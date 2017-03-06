@@ -74,7 +74,7 @@ function scrapeStats(baseUrl, fileName, callback){
         
       })
     }else{
-      fs.writeFile(fileName, JSON.stringify(json, null, 4), function(err){
+      fs.writeFile("output/"+fileName, JSON.stringify(json, null, 4), function(err){
         console.log('File written! ' + fileName);
       })
       callback(json);
