@@ -1,0 +1,3124 @@
+{
+    "statistikker": [
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "Førde VBK",
+            "draktNr": 12,
+            "serve": 3,
+            "angrep": 37,
+            "blokk": 2,
+            "totalt": 42,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "1.02.2014",
+                "url": "http://www.poengliga.no/elited/1314/kamper/23web.html",
+                "motstandere": "Førde VBK - Blindheim",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Poole, Maria K.",
+            "klubb": "ToppVolley",
+            "draktNr": 9,
+            "serve": 3,
+            "angrep": 27,
+            "blokk": 4,
+            "totalt": 34,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "7.02.2016",
+                "url": "http://www.poengliga.no/elited/1516/kamper/30web.html",
+                "motstandere": "ToppVolley - Nyborg VBK",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Karlsen, Elise",
+            "klubb": "Tromsø Volley",
+            "draktNr": 6,
+            "serve": 5,
+            "angrep": 26,
+            "blokk": 2,
+            "totalt": 33,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "11.03.2007",
+                "url": "http://www.poengliga.no/elited/0607/kamper/77web.html",
+                "motstandere": "Gløshaugen - Tromsø Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Landi, Justin",
+            "klubb": "Stod",
+            "draktNr": 9,
+            "serve": 3,
+            "angrep": 28,
+            "blokk": 1,
+            "totalt": 32,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 11/12",
+                "dato": "25.09.2011",
+                "url": "http://www.poengliga.no/elited/1112/kamper/3web.html",
+                "motstandere": "Oslo Volley - Stod",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Kolsvik, Synne",
+            "klubb": "Koll",
+            "draktNr": 3,
+            "serve": 2,
+            "angrep": 28,
+            "blokk": 1,
+            "totalt": 31,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 16/17",
+                "dato": "5.02.2017",
+                "url": "http://www.poengliga.no/elited/1617/kamper/37web.html",
+                "motstandere": "Koll - Viking",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Poole, Maria K.",
+            "klubb": "ToppVolley",
+            "draktNr": 9,
+            "serve": 1,
+            "angrep": 26,
+            "blokk": 4,
+            "totalt": 31,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "24.10.2015",
+                "url": "http://www.poengliga.no/elited/1516/kamper/7web.html",
+                "motstandere": "Koll - ToppVolley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 1,
+            "angrep": 28,
+            "blokk": 1,
+            "totalt": 30,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "3.10.2009",
+                "url": "http://www.poengliga.no/elited/0910/kamper/8web.html",
+                "motstandere": "BSI - Stod",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Kongshavn, Janne",
+            "klubb": "BSI",
+            "draktNr": 16,
+            "serve": 0,
+            "angrep": 28,
+            "blokk": 2,
+            "totalt": 30,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "29.10.2007",
+                "url": "http://www.poengliga.no/elited/0708/kamper/24web.html",
+                "motstandere": "BSI - KFUM Stavanger",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 8,
+            "serve": 2,
+            "angrep": 27,
+            "blokk": 1,
+            "totalt": 30,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "19.04.2008",
+                "url": "http://www.poengliga.no/elited/0708/kamper/98web.html",
+                "motstandere": "Oslo Volley - BSI",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 1,
+            "angrep": 27,
+            "blokk": 2,
+            "totalt": 30,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "19.02.2010",
+                "url": "http://www.poengliga.no/elited/0910/kamper/56web.html",
+                "motstandere": "Koll - Oslo Volley",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 3,
+            "angrep": 26,
+            "blokk": 1,
+            "totalt": 30,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "18.01.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/42web.html",
+                "motstandere": "Oslo Volley - BSI",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Weclawek, Edyta",
+            "klubb": "Oslo Volley",
+            "draktNr": 9,
+            "serve": 5,
+            "angrep": 25,
+            "blokk": 0,
+            "totalt": 30,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "15.12.2012",
+                "url": "http://www.poengliga.no/elited/1213/kamper/28web.html",
+                "motstandere": "Oslo Volley - Koll",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Kolsvik, Synne",
+            "klubb": "Koll",
+            "draktNr": 3,
+            "serve": 1,
+            "angrep": 26,
+            "blokk": 1,
+            "totalt": 28,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 16/17",
+                "dato": "28.01.2017",
+                "url": "http://www.poengliga.no/elited/1617/kamper/30web.html",
+                "motstandere": "Koll - Randaberg",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Viken, Martine",
+            "klubb": "Førde VBK",
+            "draktNr": 7,
+            "serve": 0,
+            "angrep": 26,
+            "blokk": 1,
+            "totalt": 27,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "15.11.2014",
+                "url": "http://www.poengliga.no/elited/1415/kamper/19web.html",
+                "motstandere": "Førde VBK - Nyborg VBK",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 1,
+            "angrep": 24,
+            "blokk": 2,
+            "totalt": 27,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "19.02.2010",
+                "url": "http://www.poengliga.no/elited/0910/kamper/56web.html",
+                "motstandere": "Koll - Oslo Volley",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 3,
+            "angrep": 23,
+            "blokk": 1,
+            "totalt": 27,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "11.10.2009",
+                "url": "http://www.poengliga.no/elited/0910/kamper/15web.html",
+                "motstandere": "BSI - UiS",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Hole, Mari Aase",
+            "klubb": "Koll",
+            "draktNr": 4,
+            "serve": 6,
+            "angrep": 18,
+            "blokk": 3,
+            "totalt": 27,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "14.03.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/74web.html",
+                "motstandere": "Koll - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 0,
+            "angrep": 25,
+            "blokk": 1,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "20.03.2011",
+                "url": "http://www.poengliga.no/elited/1011/kamper/60web.html",
+                "motstandere": "BSI - Oslo Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Spangen, Ane",
+            "klubb": "Blindheim",
+            "draktNr": 13,
+            "serve": 0,
+            "angrep": 25,
+            "blokk": 1,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "0",
+                "url": "http://www.poengliga.no/elited/0607/kamper/71web.html",
+                "motstandere": "OSI - Blindheim",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 1,
+            "angrep": 24,
+            "blokk": 1,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "20.03.2010",
+                "url": "http://www.poengliga.no/elited/0910/kamper/80web.html",
+                "motstandere": "Oslo Volley - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Viken, Martine",
+            "klubb": "Førde VBK",
+            "draktNr": 7,
+            "serve": 1,
+            "angrep": 24,
+            "blokk": 1,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "1.02.2015",
+                "url": "http://www.poengliga.no/elited/1415/kamper/35web.html",
+                "motstandere": "Nyborg VBK - Førde VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Prenga, Arjola",
+            "klubb": "Randaberg",
+            "draktNr": 11,
+            "serve": 1,
+            "angrep": 23,
+            "blokk": 2,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "24.10.2015",
+                "url": "http://www.poengliga.no/elited/1516/kamper/6web.html",
+                "motstandere": "Randaberg - Nyborg VBK",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Karlsen, Elise",
+            "klubb": "Tromsø Volley",
+            "draktNr": 6,
+            "serve": 3,
+            "angrep": 22,
+            "blokk": 1,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "28.10.2006",
+                "url": "http://www.poengliga.no/elited/0607/kamper/21web.html",
+                "motstandere": "BSI - Tromsø Volley",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "Førde VBK",
+            "draktNr": 12,
+            "serve": 1,
+            "angrep": 22,
+            "blokk": 3,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "5.04.2014",
+                "url": "http://www.poengliga.no/elited/1314/kamper/42web.html",
+                "motstandere": "Blindheim - Førde VBK",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Mikalsen, Julie",
+            "klubb": "ToppVolleyNorge",
+            "draktNr": 10,
+            "serve": 1,
+            "angrep": 22,
+            "blokk": 3,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "15.03.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/72web.html",
+                "motstandere": "ToppVolleyNorge - Tromsø Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Kongshavn, Janne",
+            "klubb": "BSI",
+            "draktNr": 18,
+            "serve": 0,
+            "angrep": 22,
+            "blokk": 4,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "27.10.2007",
+                "url": "http://www.poengliga.no/elited/0708/kamper/23web.html",
+                "motstandere": "BSI - Oslo Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 2,
+            "angrep": 21,
+            "blokk": 3,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "6.02.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/56web.html",
+                "motstandere": "Koll - Oslo Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Weclawek, Edyta",
+            "klubb": "Oslo Volley",
+            "draktNr": 9,
+            "serve": 5,
+            "angrep": 20,
+            "blokk": 1,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "9.03.2013",
+                "url": "http://www.poengliga.no/elited/1213/kamper/50web.html",
+                "motstandere": "Oslo Volley - BSI",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Borsheim, Anja Ø.",
+            "klubb": "UiS Volley",
+            "draktNr": 3,
+            "serve": 7,
+            "angrep": 19,
+            "blokk": 0,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "8.12.2012",
+                "url": "http://www.poengliga.no/elited/1213/kamper/25web.html",
+                "motstandere": "UiS Volley - Førde VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Storøy, Maria Moen",
+            "klubb": "Koll",
+            "draktNr": 5,
+            "serve": 0,
+            "angrep": 19,
+            "blokk": 7,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "17.01.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/41web.html",
+                "motstandere": "Koll - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Andersen, Henriette B.",
+            "klubb": "Randaberg",
+            "draktNr": 10,
+            "serve": 5,
+            "angrep": 18,
+            "blokk": 3,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "13.03.2016",
+                "url": "http://www.poengliga.no/elited/1516/kamper/41web.html",
+                "motstandere": "ToppVolley - Randaberg",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 8,
+            "angrep": 16,
+            "blokk": 2,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "26.01.2007",
+                "url": "http://www.poengliga.no/elited/0607/kamper/55web.html",
+                "motstandere": "Koll - Gløshaugen",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Viken, Martine",
+            "klubb": "Førde VBK",
+            "draktNr": 7,
+            "serve": 0,
+            "angrep": 24,
+            "blokk": 1,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "5.10.2014",
+                "url": "http://www.poengliga.no/elited/1415/kamper/4web.html",
+                "motstandere": "Førde VBK - Koll",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "Førde VBK",
+            "draktNr": 12,
+            "serve": 1,
+            "angrep": 23,
+            "blokk": 1,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "4.04.2014",
+                "url": "http://www.poengliga.no/elited/1314/kamper/39web.html",
+                "motstandere": "Førde VBK - Koll",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Maaseide, Benedicte",
+            "klubb": "UiS Volley",
+            "draktNr": 9,
+            "serve": 1,
+            "angrep": 23,
+            "blokk": 1,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "9.11.2013",
+                "url": "http://www.poengliga.no/elited/1314/kamper/11web.html",
+                "motstandere": "Koll - UiS Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Kongshavn, Janne",
+            "klubb": "BSI",
+            "draktNr": 16,
+            "serve": 1,
+            "angrep": 23,
+            "blokk": 1,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "4.11.2007",
+                "url": "http://www.poengliga.no/elited/0708/kamper/29web.html",
+                "motstandere": "BSI - Gløshaugen",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 1,
+            "angrep": 22,
+            "blokk": 2,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "16.01.2011",
+                "url": "http://www.poengliga.no/elited/1011/kamper/34web.html",
+                "motstandere": "Koll - UiS",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 0,
+            "angrep": 22,
+            "blokk": 3,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "17.10.2009",
+                "url": "http://www.poengliga.no/elited/0910/kamper/17web.html",
+                "motstandere": "Oslo Volley - Stod",
+                "resultat": "2-2"
+            }
+        },
+        {
+            "navn": "Haldorsen, Åse",
+            "klubb": "Blindheim",
+            "draktNr": 3,
+            "serve": 2,
+            "angrep": 21,
+            "blokk": 2,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "14.10.2007",
+                "url": "http://www.poengliga.no/elited/0708/kamper/13web.html",
+                "motstandere": "Blindheim - Gløshaugen",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Morken, Malene H.",
+            "klubb": "Nyborg VBK",
+            "draktNr": 6,
+            "serve": 5,
+            "angrep": 20,
+            "blokk": 0,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "1.02.2015",
+                "url": "http://www.poengliga.no/elited/1415/kamper/35web.html",
+                "motstandere": "Nyborg VBK - Førde VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 2,
+            "angrep": 20,
+            "blokk": 3,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "14.03.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/74web.html",
+                "motstandere": "Koll - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 3,
+            "angrep": 19,
+            "blokk": 3,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "4.10.2009",
+                "url": "http://www.poengliga.no/elited/0910/kamper/12web.html",
+                "motstandere": "BSI - NTNUI",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Weclawek, Edyta",
+            "klubb": "Oslo Volley",
+            "draktNr": 9,
+            "serve": 3,
+            "angrep": 19,
+            "blokk": 3,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "1.03.2014",
+                "url": "http://www.poengliga.no/elited/1314/kamper/31web.html",
+                "motstandere": "UiS Volley - Oslo Volley",
+                "resultat": "0-3"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 4,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "13.12.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/30web.html",
+                "motstandere": "Gløshaugen - Oslo Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Weclawek, Edyta",
+            "klubb": "Oslo Volley",
+            "draktNr": 9,
+            "serve": 8,
+            "angrep": 15,
+            "blokk": 2,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "15.02.2014",
+                "url": "http://www.poengliga.no/elited/1314/kamper/27web.html",
+                "motstandere": "Oslo Volley - Stod Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Bech, Susann J.",
+            "klubb": "Sortland",
+            "draktNr": 5,
+            "serve": 2,
+            "angrep": 22,
+            "blokk": 0,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "11.10.2014",
+                "url": "http://www.poengliga.no/elited/1415/kamper/9web.html",
+                "motstandere": "Sortland - Randaberg",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 1,
+            "angrep": 22,
+            "blokk": 1,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "20.03.2010",
+                "url": "http://www.poengliga.no/elited/0910/kamper/79web.html",
+                "motstandere": "Koll - UiS",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Løvberg, Mari L.",
+            "klubb": "Koll",
+            "draktNr": 6,
+            "serve": 2,
+            "angrep": 21,
+            "blokk": 1,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "28.02.2016",
+                "url": "http://www.poengliga.no/elited/1516/kamper/39web.html",
+                "motstandere": "Koll - Tønsberg",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Andersen, Henriette B.",
+            "klubb": "Randaberg",
+            "draktNr": 10,
+            "serve": 1,
+            "angrep": 21,
+            "blokk": 2,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 16/17",
+                "dato": "29.01.2017",
+                "url": "http://www.poengliga.no/elited/1617/kamper/32web.html",
+                "motstandere": "OSI - Randaberg",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Pecora, Gabrielle",
+            "klubb": "Oslo Volley",
+            "draktNr": 6,
+            "serve": 2,
+            "angrep": 20,
+            "blokk": 2,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "23.10.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/9web.html",
+                "motstandere": "Oslo Volley - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Taubøll, Signe M.",
+            "klubb": "Førde",
+            "draktNr": 7,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 4,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 11/12",
+                "dato": "10.03.2012",
+                "url": "http://www.poengliga.no/elited/1112/kamper/40web.html",
+                "motstandere": "UiS - Førde",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Maaseide, Benedicte",
+            "klubb": "Randaberg",
+            "draktNr": 9,
+            "serve": 2,
+            "angrep": 18,
+            "blokk": 4,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "1.02.2015",
+                "url": "http://www.poengliga.no/elited/1415/kamper/34web.html",
+                "motstandere": "Randaberg - Sortland",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 5,
+            "angrep": 17,
+            "blokk": 2,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "28.10.2012",
+                "url": "http://www.poengliga.no/elited/1213/kamper/11web.html",
+                "motstandere": "BSI - Førde VBK",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Berget, Mari B.",
+            "klubb": "Oslo Volley",
+            "draktNr": 12,
+            "serve": 3,
+            "angrep": 16,
+            "blokk": 5,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 11/12",
+                "dato": "25.02.2012",
+                "url": "http://www.poengliga.no/elited/1112/kamper/36web.html",
+                "motstandere": "BSI - Oslo Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Szulc, Monika",
+            "klubb": "Stod",
+            "draktNr": 3,
+            "serve": 2,
+            "angrep": 16,
+            "blokk": 6,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 11/12",
+                "dato": "25.02.2012",
+                "url": "http://www.poengliga.no/elited/1112/kamper/35web.html",
+                "motstandere": "Stod - UiS",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Norveel, Kjersti",
+            "klubb": "Tønsberg",
+            "draktNr": 15,
+            "serve": 2,
+            "angrep": 15,
+            "blokk": 7,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "1.11.2015",
+                "url": "http://www.poengliga.no/elited/1516/kamper/11web.html",
+                "motstandere": "Tønsberg - Førde VBK",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Helgeland, Ingunn",
+            "klubb": "KFUM Stavanger",
+            "draktNr": 2,
+            "serve": 1,
+            "angrep": 22,
+            "blokk": 0,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "4.03.2007",
+                "url": "http://www.poengliga.no/elited/0607/kamper/73web.html",
+                "motstandere": "KFUM Stavanger - BSI",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "Førde VBK",
+            "draktNr": 12,
+            "serve": 0,
+            "angrep": 22,
+            "blokk": 1,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "5.10.2013",
+                "url": "http://www.poengliga.no/elited/1314/kamper/3web.html",
+                "motstandere": "Koll - Førde VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Jaudzema, Jana",
+            "klubb": "Randaberg",
+            "draktNr": 6,
+            "serve": 0,
+            "angrep": 21,
+            "blokk": 2,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "1.11.2015",
+                "url": "http://www.poengliga.no/elited/1516/kamper/12web.html",
+                "motstandere": "Oslo Volley - Randaberg",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "Førde VBK",
+            "draktNr": 5,
+            "serve": 2,
+            "angrep": 20,
+            "blokk": 1,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 16/17",
+                "dato": "5.02.2017",
+                "url": "http://www.poengliga.no/elited/1617/kamper/36web.html",
+                "motstandere": "ToppVolley - Førde VBK",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Kongshavn, Janne",
+            "klubb": "Oslo Volley",
+            "draktNr": 12,
+            "serve": 1,
+            "angrep": 20,
+            "blokk": 2,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "21.10.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/4web.html",
+                "motstandere": "Oslo Volley - Koll",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Mikalsen, Julie",
+            "klubb": "ToppVolleyNorge",
+            "draktNr": 10,
+            "serve": 0,
+            "angrep": 20,
+            "blokk": 3,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "12.10.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/14web.html",
+                "motstandere": "Blindheim - ToppVolleyNorge",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Bahr, Rebekka Aase",
+            "klubb": "Koll",
+            "draktNr": 12,
+            "serve": 4,
+            "angrep": 19,
+            "blokk": 0,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "5.10.2013",
+                "url": "http://www.poengliga.no/elited/1314/kamper/3web.html",
+                "motstandere": "Koll - Førde VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Hustadnes, Gabrielle",
+            "klubb": "Blindheim",
+            "draktNr": 8,
+            "serve": 3,
+            "angrep": 19,
+            "blokk": 1,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "5.04.2014",
+                "url": "http://www.poengliga.no/elited/1314/kamper/42web.html",
+                "motstandere": "Blindheim - Førde VBK",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Myhr, Hildegunn",
+            "klubb": "Stod",
+            "draktNr": 12,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "14.11.2009",
+                "url": "http://www.poengliga.no/elited/0910/kamper/22web.html",
+                "motstandere": "NTNUI - Stod",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Ban, Nicole",
+            "klubb": "Oslo Volley",
+            "draktNr": 9,
+            "serve": 5,
+            "angrep": 18,
+            "blokk": 0,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "20.02.2011",
+                "url": "http://www.poengliga.no/elited/1011/kamper/45web.html",
+                "motstandere": "Stod - Oslo Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Weclawek, Edyta",
+            "klubb": "Oslo Volley",
+            "draktNr": 9,
+            "serve": 2,
+            "angrep": 18,
+            "blokk": 3,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "10.11.2013",
+                "url": "http://www.poengliga.no/elited/1314/kamper/13web.html",
+                "motstandere": "Oslo Volley - UiS Volley",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Storøy, Maria Moen",
+            "klubb": "Koll",
+            "draktNr": 5,
+            "serve": 0,
+            "angrep": 18,
+            "blokk": 5,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "13.12.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/32web.html",
+                "motstandere": "BSI - Koll",
+                "resultat": "0-3"
+            }
+        },
+        {
+            "navn": "Jaudzema, Jana",
+            "klubb": "Randaberg",
+            "draktNr": 6,
+            "serve": 6,
+            "angrep": 17,
+            "blokk": 0,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "14.02.2016",
+                "url": "http://www.poengliga.no/elited/1516/kamper/32web.html",
+                "motstandere": "Randaberg - Koll",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Haugen Aas, Hanne",
+            "klubb": "UiS",
+            "draktNr": 8,
+            "serve": 3,
+            "angrep": 16,
+            "blokk": 4,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "19.03.2011",
+                "url": "http://www.poengliga.no/elited/1011/kamper/57web.html",
+                "motstandere": "UiS - Oslo Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Kvetangen, Kjersti",
+            "klubb": "BSI",
+            "draktNr": 4,
+            "serve": 0,
+            "angrep": 21,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "16.04.2008",
+                "url": "http://www.poengliga.no/elited/0708/kamper/99web.html",
+                "motstandere": "BSI - KFUM Stavanger",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 1,
+            "angrep": 20,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "6.12.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/26web.html",
+                "motstandere": "Oslo Volley - Gløshaugen",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Hjortland, Ane Guro T.",
+            "klubb": "Nyborg VBK",
+            "draktNr": 9,
+            "serve": 1,
+            "angrep": 20,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "27.02.2016",
+                "url": "http://www.poengliga.no/elited/1516/kamper/36web.html",
+                "motstandere": "Nyborg VBK - ToppVolley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Prenga, Arjola",
+            "klubb": "Stod Volley",
+            "draktNr": 11,
+            "serve": 1,
+            "angrep": 20,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "16.03.2013",
+                "url": "http://www.poengliga.no/elited/1213/kamper/37web.html",
+                "motstandere": "UiS Volley - Stod Volley",
+                "resultat": "0-3"
+            }
+        },
+        {
+            "navn": "Wojno, Anna",
+            "klubb": "Oslo Volley",
+            "draktNr": 9,
+            "serve": 1,
+            "angrep": 20,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "27.10.2007",
+                "url": "http://www.poengliga.no/elited/0708/kamper/23web.html",
+                "motstandere": "BSI - Oslo Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Mikalsen, Julie",
+            "klubb": "ToppVolleyNorge",
+            "draktNr": 10,
+            "serve": 1,
+            "angrep": 20,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "2.03.2008",
+                "url": "http://www.poengliga.no/elited/0708/kamper/75web.html",
+                "motstandere": "Blindheim - ToppVolleyNorge",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Hustad, Ane S",
+            "klubb": "Blindheim",
+            "draktNr": 13,
+            "serve": 3,
+            "angrep": 19,
+            "blokk": 0,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "0",
+                "url": "http://www.poengliga.no/elited/0607/kamper/67web.html",
+                "motstandere": "Blindheim - KFUM Stavanger",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Vigfusdottir, J.G.",
+            "klubb": "Tromsø Volley",
+            "draktNr": 2,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "14.12.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/33web.html",
+                "motstandere": "ToppVolleyNorge - Tromsø Volley",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "5.02.2011",
+                "url": "http://www.poengliga.no/elited/1011/kamper/41web.html",
+                "motstandere": "BSI - Stod",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Prenga, Arjola",
+            "klubb": "Stod Volley",
+            "draktNr": 11,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "19.10.2013",
+                "url": "http://www.poengliga.no/elited/1314/kamper/7web.html",
+                "motstandere": "Stod Volley - Oslo Volley",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "19.10.2009",
+                "url": "http://www.poengliga.no/elited/0910/kamper/6web.html",
+                "motstandere": "Oslo Volley - UiS",
+                "resultat": "0-3"
+            }
+        },
+        {
+            "navn": "Viken, Martine",
+            "klubb": "Førde VBK",
+            "draktNr": 7,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "9.03.2013",
+                "url": "http://www.poengliga.no/elited/1213/kamper/51web.html",
+                "motstandere": "Førde VBK - UiS Volley",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Myhr, Hildegunn",
+            "klubb": "Stod",
+            "draktNr": 12,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "20.02.2010",
+                "url": "http://www.poengliga.no/elited/0910/kamper/61web.html",
+                "motstandere": "Stod - BSI",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "27.10.2007",
+                "url": "http://www.poengliga.no/elited/0708/kamper/23web.html",
+                "motstandere": "BSI - Oslo Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Hole, Mari Aase",
+            "klubb": "Koll",
+            "draktNr": 4,
+            "serve": 0,
+            "angrep": 19,
+            "blokk": 3,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "7.03.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/68web.html",
+                "motstandere": "Koll - Blindheim",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Kolsvik, Synne",
+            "klubb": "Koll",
+            "draktNr": 5,
+            "serve": 0,
+            "angrep": 19,
+            "blokk": 3,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "5.10.2013",
+                "url": "http://www.poengliga.no/elited/1314/kamper/3web.html",
+                "motstandere": "Koll - Førde VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Sande, Maja L.",
+            "klubb": "Tønsberg",
+            "draktNr": 8,
+            "serve": 0,
+            "angrep": 19,
+            "blokk": 3,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "4.11.2015",
+                "url": "http://www.poengliga.no/elited/1516/kamper/13web.html",
+                "motstandere": "Tønsberg - Koll",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Leon, Yudit P. de",
+            "klubb": "Stod Volley",
+            "draktNr": 6,
+            "serve": 3,
+            "angrep": 18,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "15.12.2012",
+                "url": "http://www.poengliga.no/elited/1213/kamper/27web.html",
+                "motstandere": "Stod Volley - Førde VBK",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "Førde VBK",
+            "draktNr": 12,
+            "serve": 2,
+            "angrep": 18,
+            "blokk": 2,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "2.02.2014",
+                "url": "http://www.poengliga.no/elited/1314/kamper/24web.html",
+                "motstandere": "Førde VBK - UiS Volley",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 2,
+            "angrep": 18,
+            "blokk": 2,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "27.09.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/3web.html",
+                "motstandere": "BSI - Blindheim",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Prenga, Arjola",
+            "klubb": "Randaberg",
+            "draktNr": 11,
+            "serve": 1,
+            "angrep": 18,
+            "blokk": 3,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "1.11.2015",
+                "url": "http://www.poengliga.no/elited/1516/kamper/12web.html",
+                "motstandere": "Oslo Volley - Randaberg",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Sandsdalen, Hanna",
+            "klubb": "Tromsø Volley",
+            "draktNr": 11,
+            "serve": 1,
+            "angrep": 18,
+            "blokk": 3,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "8.12.2007",
+                "url": "http://www.poengliga.no/elited/0708/kamper/44web.html",
+                "motstandere": "Tromsø Volley - BSI",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Aas, Hanne H.",
+            "klubb": "Randaberg",
+            "draktNr": 8,
+            "serve": 4,
+            "angrep": 17,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 16/17",
+                "dato": "1.10.2016",
+                "url": "http://www.poengliga.no/elited/1617/kamper/3web.html",
+                "motstandere": "Randaberg - Viking",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 4,
+            "angrep": 17,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 11/12",
+                "dato": "20.11.2011",
+                "url": "http://www.poengliga.no/elited/1112/kamper/17web.html",
+                "motstandere": "BSI - Førde",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Bratlie, Mathilde",
+            "klubb": "Koll",
+            "draktNr": 2,
+            "serve": 4,
+            "angrep": 17,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "12.03.2016",
+                "url": "http://www.poengliga.no/elited/1516/kamper/40web.html",
+                "motstandere": "Koll - Nyborg VBK",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Nergård, Katrine L.",
+            "klubb": "NTNUI Volley",
+            "draktNr": 12,
+            "serve": 3,
+            "angrep": 17,
+            "blokk": 2,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "3.02.2013",
+                "url": "http://www.poengliga.no/elited/1213/kamper/43web.html",
+                "motstandere": "NTNUI Volley - Førde VBK",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Bijsterbosch, Ellen",
+            "klubb": "Førde VBK",
+            "draktNr": 2,
+            "serve": 1,
+            "angrep": 17,
+            "blokk": 4,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "8.12.2012",
+                "url": "http://www.poengliga.no/elited/1213/kamper/25web.html",
+                "motstandere": "UiS Volley - Førde VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Haugen Aas, Hanne",
+            "klubb": "UiS",
+            "draktNr": 8,
+            "serve": 0,
+            "angrep": 17,
+            "blokk": 5,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "11.12.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/26web.html",
+                "motstandere": "Stod - UiS",
+                "resultat": "0-3"
+            }
+        },
+        {
+            "navn": "Tennøy, Sonja M.",
+            "klubb": "Gløshaugen",
+            "draktNr": 6,
+            "serve": 5,
+            "angrep": 16,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "28.03.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/82web.html",
+                "motstandere": "Gløshaugen - ToppVolleyNorge",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Loland, Vilde W.",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 5,
+            "angrep": 16,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "9.03.2013",
+                "url": "http://www.poengliga.no/elited/1213/kamper/49web.html",
+                "motstandere": "Koll - NTNUI Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 3,
+            "angrep": 16,
+            "blokk": 3,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "21.04.2007",
+                "url": "http://www.poengliga.no/elited/0607/kamper/86web.html",
+                "motstandere": "Koll - Oslo Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 2,
+            "angrep": 16,
+            "blokk": 4,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "25.11.2012",
+                "url": "http://www.poengliga.no/elited/1213/kamper/21web.html",
+                "motstandere": "BSI - Stod Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Bratlie, Mathilde",
+            "klubb": "Koll",
+            "draktNr": 2,
+            "serve": 7,
+            "angrep": 15,
+            "blokk": 0,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "28.02.2016",
+                "url": "http://www.poengliga.no/elited/1516/kamper/39web.html",
+                "motstandere": "Koll - Tønsberg",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Ban, Nicole",
+            "klubb": "Oslo Volley",
+            "draktNr": 9,
+            "serve": 1,
+            "angrep": 15,
+            "blokk": 6,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "11.12.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/28web.html",
+                "motstandere": "Koll - Oslo Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Mikalsen, Julie",
+            "klubb": "ToppVolleyNorge",
+            "draktNr": 10,
+            "serve": 1,
+            "angrep": 15,
+            "blokk": 6,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "14.12.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/33web.html",
+                "motstandere": "ToppVolleyNorge - Tromsø Volley",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Fossen, Kristine",
+            "klubb": "KFUM Stavanger",
+            "draktNr": 5,
+            "serve": 6,
+            "angrep": 14,
+            "blokk": 2,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "30.03.2008",
+                "url": "http://www.poengliga.no/elited/0708/kamper/94web.html",
+                "motstandere": "Tromsø Volley - KFUM Stavanger",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Fossen, Kristine",
+            "klubb": "KFUM Stavanger",
+            "draktNr": 5,
+            "serve": 4,
+            "angrep": 13,
+            "blokk": 5,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "30.09.2007",
+                "url": "http://www.poengliga.no/elited/0708/kamper/2web.html",
+                "motstandere": "ToppVolleyNorge - KFUM Stavanger",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Weclawek, Edyta",
+            "klubb": "Oslo Volley",
+            "draktNr": 9,
+            "serve": 4,
+            "angrep": 13,
+            "blokk": 5,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "29.11.2014",
+                "url": "http://www.poengliga.no/elited/1415/kamper/21web.html",
+                "motstandere": "Sortland - Oslo Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Haugen Aas, Hanne",
+            "klubb": "UiS",
+            "draktNr": 8,
+            "serve": 5,
+            "angrep": 12,
+            "blokk": 5,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "20.03.2011",
+                "url": "http://www.poengliga.no/elited/1011/kamper/59web.html",
+                "motstandere": "UiS - Koll",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Arnesen, Marita",
+            "klubb": "Tromsø Volley",
+            "draktNr": 4,
+            "serve": 0,
+            "angrep": 21,
+            "blokk": 0,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "2.12.2006",
+                "url": "http://www.poengliga.no/elited/0607/kamper/40web.html",
+                "motstandere": "Tromsø Volley - BSI",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Glesnes, Susanne",
+            "klubb": "BSI",
+            "draktNr": 5,
+            "serve": 1,
+            "angrep": 20,
+            "blokk": 0,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "17.01.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/41web.html",
+                "motstandere": "Koll - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Nergård, Katrine L.",
+            "klubb": "NTNUI Volley",
+            "draktNr": 12,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 0,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "7.04.2013",
+                "url": "http://www.poengliga.no/elited/1213/kamper/63web.html",
+                "motstandere": "NTNUI Volley - Koll",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Landi, Justine",
+            "klubb": "Stod",
+            "draktNr": 9,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 0,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 11/12",
+                "dato": "11.03.2012",
+                "url": "http://www.poengliga.no/elited/1112/kamper/41web.html",
+                "motstandere": "Oslo Volley - Stod",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Hustadnes, Gabrielle",
+            "klubb": "Blindheim",
+            "draktNr": 8,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 1,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "6.04.2014",
+                "url": "http://www.poengliga.no/elited/1314/kamper/44web.html",
+                "motstandere": "Blindheim - Koll",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Weclawek, Edyta",
+            "klubb": "Oslo Volley",
+            "draktNr": 13,
+            "serve": 0,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 11/12",
+                "dato": "25.09.2011",
+                "url": "http://www.poengliga.no/elited/1112/kamper/3web.html",
+                "motstandere": "Oslo Volley - Stod",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Bruusgaard, Karen",
+            "klubb": "OSI",
+            "draktNr": 5,
+            "serve": 3,
+            "angrep": 18,
+            "blokk": 0,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "23.09.2006",
+                "url": "http://www.poengliga.no/elited/0607/kamper/3web.html",
+                "motstandere": "OSI - Tromsø Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Storøy, Maria Moen",
+            "klubb": "Koll",
+            "draktNr": 5,
+            "serve": 2,
+            "angrep": 18,
+            "blokk": 1,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "1.12.2009",
+                "url": "http://www.poengliga.no/elited/0910/kamper/35web.html",
+                "motstandere": "Koll - Oslo Volley",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 2,
+            "angrep": 18,
+            "blokk": 1,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "2.02.2008",
+                "url": "http://www.poengliga.no/elited/0708/kamper/63web.html",
+                "motstandere": "Tromsø Volley - Oslo Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Myhr, Hildegunn",
+            "klubb": "Stod",
+            "draktNr": 6,
+            "serve": 1,
+            "angrep": 18,
+            "blokk": 2,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "14.11.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/20web.html",
+                "motstandere": "Oslo Volley - Stod",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Knudsen, Ragni S.",
+            "klubb": "Oslo Volley",
+            "draktNr": 11,
+            "serve": 1,
+            "angrep": 18,
+            "blokk": 2,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "20.12.2014",
+                "url": "http://www.poengliga.no/elited/1415/kamper/27web.html",
+                "motstandere": "Oslo Volley - Nyborg VBK",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Weclawek, Edyta",
+            "klubb": "Oslo Volley",
+            "draktNr": 11,
+            "serve": 0,
+            "angrep": 18,
+            "blokk": 3,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 11/12",
+                "dato": "11.03.2012",
+                "url": "http://www.poengliga.no/elited/1112/kamper/41web.html",
+                "motstandere": "Oslo Volley - Stod",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Helgeland, Ingunn",
+            "klubb": "KFUM Stavanger",
+            "draktNr": 2,
+            "serve": 0,
+            "angrep": 18,
+            "blokk": 3,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "0",
+                "url": "http://www.poengliga.no/elited/0607/kamper/57web.html",
+                "motstandere": "KFUM Stavanger - ToppVolleyNorge",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Helgeland, Ingunn",
+            "klubb": "KFUM Stavanger",
+            "draktNr": 2,
+            "serve": 4,
+            "angrep": 17,
+            "blokk": 0,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "12.03.2008",
+                "url": "http://www.poengliga.no/elited/0708/kamper/88web.html",
+                "motstandere": "KFUM Stavanger - ToppVolleyNorge",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 2,
+            "angrep": 17,
+            "blokk": 2,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "23.01.2011",
+                "url": "http://www.poengliga.no/elited/1011/kamper/38web.html",
+                "motstandere": "Stod - Koll",
+                "resultat": "0-3"
+            }
+        },
+        {
+            "navn": "Myhr, Hildegunn",
+            "klubb": "Gløshaugen",
+            "draktNr": 3,
+            "serve": 1,
+            "angrep": 17,
+            "blokk": 3,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "2.02.2008",
+                "url": "http://www.poengliga.no/elited/0708/kamper/62web.html",
+                "motstandere": "Gløshaugen - Blindheim",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 0,
+            "angrep": 17,
+            "blokk": 4,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "17.01.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/41web.html",
+                "motstandere": "Koll - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Myhr, Hildegunn",
+            "klubb": "Gløshaugen",
+            "draktNr": 3,
+            "serve": 5,
+            "angrep": 16,
+            "blokk": 0,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "24.01.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/47web.html",
+                "motstandere": "Gløshaugen - Blindheim",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Finstad, Hedda",
+            "klubb": "OSI",
+            "draktNr": 6,
+            "serve": 5,
+            "angrep": 16,
+            "blokk": 0,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "27.10.2007",
+                "url": "http://www.poengliga.no/elited/0708/kamper/21web.html",
+                "motstandere": "Gløshaugen - OSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Bahr, Rebekka Aase",
+            "klubb": "Koll",
+            "draktNr": 12,
+            "serve": 4,
+            "angrep": 16,
+            "blokk": 1,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "6.10.2013",
+                "url": "http://www.poengliga.no/elited/1314/kamper/5web.html",
+                "motstandere": "Koll - Blindheim",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 4,
+            "angrep": 16,
+            "blokk": 1,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "2.03.2013",
+                "url": "http://www.poengliga.no/elited/1213/kamper/47web.html",
+                "motstandere": "BSI - Førde VBK",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Myhr, Hildegunn",
+            "klubb": "Gløshaugen",
+            "draktNr": 3,
+            "serve": 4,
+            "angrep": 16,
+            "blokk": 1,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "15.02.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/59web.html",
+                "motstandere": "Oslo Volley - Gløshaugen",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Vilde Waaler Loland",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 3,
+            "angrep": 16,
+            "blokk": 2,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "25.11.2012",
+                "url": "http://www.poengliga.no/elited/1213/kamper/23web.html",
+                "motstandere": "Koll - UiS",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Erdal, Ingri Malene",
+            "klubb": "BSI",
+            "draktNr": 2,
+            "serve": 3,
+            "angrep": 16,
+            "blokk": 2,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "15.01.2011",
+                "url": "http://www.poengliga.no/elited/1011/kamper/33web.html",
+                "motstandere": "Koll - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Mikalsen, Julie",
+            "klubb": "ToppVolleyNorge",
+            "draktNr": 10,
+            "serve": 2,
+            "angrep": 16,
+            "blokk": 3,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "11.10.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/13web.html",
+                "motstandere": "Gløshaugen - ToppVolleyNorge",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 2,
+            "angrep": 16,
+            "blokk": 3,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "21.10.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/4web.html",
+                "motstandere": "Oslo Volley - Koll",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Storøy, Maria Moen",
+            "klubb": "Koll",
+            "draktNr": 5,
+            "serve": 1,
+            "angrep": 16,
+            "blokk": 4,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "11.12.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/28web.html",
+                "motstandere": "Koll - Oslo Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Lynge, Birgit K.",
+            "klubb": "KFUM Stavanger",
+            "draktNr": 11,
+            "serve": 1,
+            "angrep": 16,
+            "blokk": 4,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "7.10.2006",
+                "url": "http://www.poengliga.no/elited/0607/kamper/11web.html",
+                "motstandere": "KFUM Stavanger - BSI",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 3,
+            "angrep": 15,
+            "blokk": 3,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "29.03.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/81web.html",
+                "motstandere": "Oslo Volley - Tromsø Volley",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 2,
+            "angrep": 15,
+            "blokk": 4,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "26.09.2009",
+                "url": "http://www.poengliga.no/elited/0910/kamper/3web.html",
+                "motstandere": "Oslo Volley - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Myhr, Hildegunn",
+            "klubb": "Stod",
+            "draktNr": 12,
+            "serve": 2,
+            "angrep": 15,
+            "blokk": 4,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "21.11.2009",
+                "url": "http://www.poengliga.no/elited/0910/kamper/28web.html",
+                "motstandere": "Stod - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Haugen Aas, Hanne",
+            "klubb": "UiS",
+            "draktNr": 8,
+            "serve": 0,
+            "angrep": 15,
+            "blokk": 6,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "31.10.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/14web.html",
+                "motstandere": "UiS - Stod",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 7,
+            "angrep": 14,
+            "blokk": 0,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "13.12.2009",
+                "url": "http://www.poengliga.no/elited/0910/kamper/42web.html",
+                "motstandere": "BSI - Tromsø Volley",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Flaat, Katja",
+            "klubb": "Gløshaugen",
+            "draktNr": 13,
+            "serve": 5,
+            "angrep": 14,
+            "blokk": 2,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "11.03.2007",
+                "url": "http://www.poengliga.no/elited/0607/kamper/77web.html",
+                "motstandere": "Gløshaugen - Tromsø Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Andersen, Henriette B.",
+            "klubb": "Randaberg",
+            "draktNr": 11,
+            "serve": 4,
+            "angrep": 14,
+            "blokk": 3,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "13.12.2014",
+                "url": "http://www.poengliga.no/elited/1415/kamper/23web.html",
+                "motstandere": "Randaberg - Nyborg VBK",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Haugen Aas, Hanne",
+            "klubb": "UiS",
+            "draktNr": 8,
+            "serve": 2,
+            "angrep": 14,
+            "blokk": 5,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "15.01.2011",
+                "url": "http://www.poengliga.no/elited/1011/kamper/32web.html",
+                "motstandere": "Oslo Volley - UiS",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Jaudzema, Jana",
+            "klubb": "Randaberg",
+            "draktNr": 6,
+            "serve": 7,
+            "angrep": 13,
+            "blokk": 1,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "5.12.2015",
+                "url": "http://www.poengliga.no/elited/1516/kamper/20web.html",
+                "motstandere": "Randaberg - Førde VBK",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Weclawek, Edyta",
+            "klubb": "Oslo Volley",
+            "draktNr": 11,
+            "serve": 6,
+            "angrep": 13,
+            "blokk": 2,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 11/12",
+                "dato": "25.02.2012",
+                "url": "http://www.poengliga.no/elited/1112/kamper/36web.html",
+                "motstandere": "BSI - Oslo Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 6,
+            "angrep": 13,
+            "blokk": 2,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "16.11.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/20web.html",
+                "motstandere": "BSI - Oslo Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Haugen Aas, Hanne",
+            "klubb": "UiS",
+            "draktNr": 8,
+            "serve": 1,
+            "angrep": 13,
+            "blokk": 7,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "22.01.2011",
+                "url": "http://www.poengliga.no/elited/1011/kamper/36web.html",
+                "motstandere": "BSI - UiS",
+                "resultat": "0-3"
+            }
+        },
+        {
+            "navn": "Bahr, Rebekka Aase",
+            "klubb": "Koll",
+            "draktNr": 12,
+            "serve": 9,
+            "angrep": 12,
+            "blokk": 0,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "12.01.2013",
+                "url": "http://www.poengliga.no/elited/1213/kamper/31web.html",
+                "motstandere": "NTNUI Volley - Koll",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Haugen Aas, Hanne",
+            "klubb": "UiS",
+            "draktNr": 8,
+            "serve": 4,
+            "angrep": 9,
+            "blokk": 8,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "23.01.2010",
+                "url": "http://www.poengliga.no/elited/0910/kamper/50web.html",
+                "motstandere": "UiS - Tromsø Volley",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Karlsen, Elise",
+            "klubb": "Tromsø Volley",
+            "draktNr": 6,
+            "serve": 0,
+            "angrep": 20,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "2.12.2006",
+                "url": "http://www.poengliga.no/elited/0607/kamper/40web.html",
+                "motstandere": "Tromsø Volley - BSI",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Bech, Susann J.",
+            "klubb": "Sortland",
+            "draktNr": 5,
+            "serve": 0,
+            "angrep": 20,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "1.02.2015",
+                "url": "http://www.poengliga.no/elited/1415/kamper/34web.html",
+                "motstandere": "Randaberg - Sortland",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Spangen, Ane",
+            "klubb": "Blindheim",
+            "draktNr": 13,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "14.01.2007",
+                "url": "http://www.poengliga.no/elited/0607/kamper/52web.html",
+                "motstandere": "ToppVolleyNorge - Blindheim",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Weclawek, Edyta",
+            "klubb": "Oslo Volley",
+            "draktNr": 9,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "19.10.2013",
+                "url": "http://www.poengliga.no/elited/1314/kamper/7web.html",
+                "motstandere": "Stod Volley - Oslo Volley",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Eyde, Elisabeth",
+            "klubb": "Oslo Volley",
+            "draktNr": 6,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "20.01.2008",
+                "url": "http://www.poengliga.no/elited/0708/kamper/54web.html",
+                "motstandere": "Oslo Volley - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "Førde VBK",
+            "draktNr": 5,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 16/17",
+                "dato": "11.02.2017",
+                "url": "http://www.poengliga.no/elited/1617/kamper/38web.html",
+                "motstandere": "Førde VBK - Oslo Volley",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Bech, Susann J.",
+            "klubb": "Oslo Volley",
+            "draktNr": 7,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "5.12.2015",
+                "url": "http://www.poengliga.no/elited/1516/kamper/19web.html",
+                "motstandere": "Oslo Volley - Tønsberg",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 0,
+            "angrep": 19,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "21.03.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/77web.html",
+                "motstandere": "Koll - ToppVolleyNorge",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Tennøy, Sonja M.",
+            "klubb": "Gløshaugen",
+            "draktNr": 6,
+            "serve": 2,
+            "angrep": 18,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "28.02.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/66web.html",
+                "motstandere": "Gløshaugen - Blindheim",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Treland, Cindy",
+            "klubb": "Koll",
+            "draktNr": 3,
+            "serve": 1,
+            "angrep": 18,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "19.02.2010",
+                "url": "http://www.poengliga.no/elited/0910/kamper/56web.html",
+                "motstandere": "Koll - Oslo Volley",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Hansen, Sunniva H.",
+            "klubb": "ToppVolley",
+            "draktNr": 2,
+            "serve": 1,
+            "angrep": 18,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "24.10.2015",
+                "url": "http://www.poengliga.no/elited/1516/kamper/7web.html",
+                "motstandere": "Koll - ToppVolley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Myhr, Hildegunn",
+            "klubb": "Gløshaugen",
+            "draktNr": 3,
+            "serve": 1,
+            "angrep": 18,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "28.03.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/82web.html",
+                "motstandere": "Gløshaugen - ToppVolleyNorge",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Mikaelsen, Julie",
+            "klubb": "ToppVolleyNorge",
+            "draktNr": 10,
+            "serve": 1,
+            "angrep": 18,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "7.12.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/28web.html",
+                "motstandere": "ToppVolleyNorge - Blindheim",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Nergård, Katrine L.",
+            "klubb": "NTNUI Volley",
+            "draktNr": 12,
+            "serve": 0,
+            "angrep": 18,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "17.02.2013",
+                "url": "http://www.poengliga.no/elited/1213/kamper/56web.html",
+                "motstandere": "NTNUI Volley - UiS Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Talberg, Marte S.",
+            "klubb": "NTNUI Volley",
+            "draktNr": 16,
+            "serve": 0,
+            "angrep": 18,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 12/13",
+                "dato": "9.03.2013",
+                "url": "http://www.poengliga.no/elited/1213/kamper/49web.html",
+                "motstandere": "Koll - NTNUI Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Glesnes, Susanne",
+            "klubb": "BSI",
+            "draktNr": 5,
+            "serve": 3,
+            "angrep": 17,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "10.12.2006",
+                "url": "http://www.poengliga.no/elited/0607/kamper/43web.html",
+                "motstandere": "Oslo Volley - BSI",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Lunde, Ingrid",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 3,
+            "angrep": 17,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "21.02.2016",
+                "url": "http://www.poengliga.no/elited/1516/kamper/34web.html",
+                "motstandere": "Oslo Volley - Koll",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 2,
+            "angrep": 17,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "13.11.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/16web.html",
+                "motstandere": "Koll - Stod",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Storøy, Maria Moen",
+            "klubb": "Koll",
+            "draktNr": 5,
+            "serve": 2,
+            "angrep": 17,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "21.04.2007",
+                "url": "http://www.poengliga.no/elited/0607/kamper/86web.html",
+                "motstandere": "Koll - Oslo Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 2,
+            "angrep": 17,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "20.01.2008",
+                "url": "http://www.poengliga.no/elited/0708/kamper/54web.html",
+                "motstandere": "Oslo Volley - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Viken, Martine",
+            "klubb": "Førde VBK",
+            "draktNr": 7,
+            "serve": 1,
+            "angrep": 17,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "1.03.2015",
+                "url": "http://www.poengliga.no/elited/1415/kamper/44web.html",
+                "motstandere": "Førde VBK - Oslo Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Elvebakk, Hilde",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 1,
+            "angrep": 17,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 11/12",
+                "dato": "25.02.2012",
+                "url": "http://www.poengliga.no/elited/1112/kamper/36web.html",
+                "motstandere": "BSI - Oslo Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Vigfusdottir, Jona G.",
+            "klubb": "UiS",
+            "draktNr": 12,
+            "serve": 1,
+            "angrep": 17,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "31.10.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/14web.html",
+                "motstandere": "UiS - Stod",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Vigfusdottir, Jona G.",
+            "klubb": "UiS",
+            "draktNr": 12,
+            "serve": 1,
+            "angrep": 17,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "20.11.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/21web.html",
+                "motstandere": "UiS - Koll",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Aas, Hanne Haugen",
+            "klubb": "KFUM Stavanger",
+            "draktNr": 9,
+            "serve": 1,
+            "angrep": 17,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "13.12.2008",
+                "url": "http://www.poengliga.no/elited/0809/kamper/34web.html",
+                "motstandere": "KFUM Stavanger - Tromsø Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Bech, Susann J.",
+            "klubb": "Oslo Volley",
+            "draktNr": 7,
+            "serve": 4,
+            "angrep": 16,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "13.03.2016",
+                "url": "http://www.poengliga.no/elited/1516/kamper/42web.html",
+                "motstandere": "Oslo Volley - Nyborg VBK",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Poole, Maria K.",
+            "klubb": "ToppVolley",
+            "draktNr": 9,
+            "serve": 3,
+            "angrep": 16,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "27.02.2016",
+                "url": "http://www.poengliga.no/elited/1516/kamper/36web.html",
+                "motstandere": "Nyborg VBK - ToppVolley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Vigfusdottir, Jona G.",
+            "klubb": "UiS",
+            "draktNr": 12,
+            "serve": 3,
+            "angrep": 16,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 09/10",
+                "dato": "17.01.2010",
+                "url": "http://www.poengliga.no/elited/0910/kamper/46web.html",
+                "motstandere": "UiS - Oslo Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Weclawek, Edyta",
+            "klubb": "Oslo Volley",
+            "draktNr": 9,
+            "serve": 3,
+            "angrep": 16,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 13/14",
+                "dato": "6.04.2014",
+                "url": "http://www.poengliga.no/elited/1314/kamper/45web.html",
+                "motstandere": "Oslo Volley - Stod Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Takvam, Karina",
+            "klubb": "Nyborg VBK",
+            "draktNr": 13,
+            "serve": 1,
+            "angrep": 16,
+            "blokk": 3,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "7.02.2016",
+                "url": "http://www.poengliga.no/elited/1516/kamper/30web.html",
+                "motstandere": "ToppVolley - Nyborg VBK",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Stavseng, Susanne",
+            "klubb": "Blindheim",
+            "draktNr": 5,
+            "serve": 1,
+            "angrep": 16,
+            "blokk": 3,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "2.03.2008",
+                "url": "http://www.poengliga.no/elited/0708/kamper/75web.html",
+                "motstandere": "Blindheim - ToppVolleyNorge",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 1,
+            "angrep": 16,
+            "blokk": 3,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "11.12.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/28web.html",
+                "motstandere": "Koll - Oslo Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Tvinde, Julie",
+            "klubb": "Førde VBK",
+            "draktNr": 10,
+            "serve": 5,
+            "angrep": 15,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "11.10.2015",
+                "url": "http://www.poengliga.no/elited/1516/kamper/3web.html",
+                "motstandere": "Førde VBK - Koll",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Hilde Elvebakk 01",
+            "klubb": "BSI",
+            "draktNr": 1,
+            "serve": 3,
+            "angrep": 15,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "30.10.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/13web.html",
+                "motstandere": "BSI - Stod",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Aas, Ragnhild",
+            "klubb": "Oslo Volley",
+            "draktNr": 2,
+            "serve": 3,
+            "angrep": 15,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 07/08",
+                "dato": "30.09.2007",
+                "url": "http://www.poengliga.no/elited/0708/kamper/3web.html",
+                "motstandere": "Oslo Volley - Blindheim",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Schwinghammer, Anne",
+            "klubb": "Oslo Volley",
+            "draktNr": 12,
+            "serve": 3,
+            "angrep": 15,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "14.11.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/20web.html",
+                "motstandere": "Oslo Volley - Stod",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Vigfusdottir, J.G.",
+            "klubb": "Tromsø Volley",
+            "draktNr": 2,
+            "serve": 1,
+            "angrep": 15,
+            "blokk": 4,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "15.02.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/57web.html",
+                "motstandere": "Tromsø Volley - BSI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Vigfusdottir, J.G.",
+            "klubb": "Tromsø Volley",
+            "draktNr": 2,
+            "serve": 2,
+            "angrep": 14,
+            "blokk": 4,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 08/09",
+                "dato": "22.02.2009",
+                "url": "http://www.poengliga.no/elited/0809/kamper/62web.html",
+                "motstandere": "Tromsø Volley - Gløshaugen",
+                "resultat": "3-0"
+            }
+        },
+        {
+            "navn": "Andersen, Henriette B.",
+            "klubb": "Randaberg",
+            "draktNr": 10,
+            "serve": 0,
+            "angrep": 14,
+            "blokk": 6,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 16/17",
+                "dato": "17.12.2016",
+                "url": "http://www.poengliga.no/elited/1617/kamper/24web.html",
+                "motstandere": "Randaberg - ToppVolley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Ulveseth, Oda",
+            "klubb": "Oslo Volley",
+            "draktNr": 5,
+            "serve": 4,
+            "angrep": 13,
+            "blokk": 3,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 14/15",
+                "dato": "29.11.2014",
+                "url": "http://www.poengliga.no/elited/1415/kamper/21web.html",
+                "motstandere": "Sortland - Oslo Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Storøy, Maria Moen",
+            "klubb": "Koll",
+            "draktNr": 5,
+            "serve": 4,
+            "angrep": 13,
+            "blokk": 3,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "13.11.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/16web.html",
+                "motstandere": "Koll - Stod",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Bosjanok, Oksana",
+            "klubb": "Stod",
+            "draktNr": 9,
+            "serve": 3,
+            "angrep": 13,
+            "blokk": 4,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 10/11",
+                "dato": "2.10.2010",
+                "url": "http://www.poengliga.no/elited/1011/kamper/4web.html",
+                "motstandere": "Stod - Oslo Volley",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Norveel, Kjersti",
+            "klubb": "Tønsberg",
+            "draktNr": 15,
+            "serve": 4,
+            "angrep": 12,
+            "blokk": 4,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 15/16",
+                "dato": "4.11.2015",
+                "url": "http://www.poengliga.no/elited/1516/kamper/13web.html",
+                "motstandere": "Tønsberg - Koll",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Dalen, Eydis",
+            "klubb": "Koll",
+            "draktNr": 10,
+            "serve": 8,
+            "angrep": 11,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Kvinner 06/07",
+                "dato": "24.03.2007",
+                "url": "http://www.poengliga.no/elited/0607/kamper/83web.html",
+                "motstandere": "Koll - Tromsø Volley",
+                "resultat": "3-1"
+            }
+        }
+    ]
+}
