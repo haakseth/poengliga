@@ -369,22 +369,6 @@
             }
         },
         {
-            "navn": "Festøy, Sigurd",
-            "klubb": "Randaberg",
-            "draktNr": 6,
-            "serve": 0,
-            "angrep": 28,
-            "blokk": 2,
-            "totalt": 30,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 11/12",
-                "dato": "24.09.2011",
-                "url": "http://www.poengliga.no/eliteh/1112/kamper/3web.html",
-                "motstandere": "Oslo Volley - Randaberg",
-                "resultat": "1-3"
-            }
-        },
-        {
             "navn": "Hylland, Vetle",
             "klubb": "Viking",
             "draktNr": 18,
@@ -398,6 +382,22 @@
                 "url": "http://www.poengliga.no/eliteh/1617/kamper/20web.html",
                 "motstandere": "Førde VBK - Viking",
                 "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Festøy, Sigurd",
+            "klubb": "Randaberg",
+            "draktNr": 6,
+            "serve": 0,
+            "angrep": 28,
+            "blokk": 2,
+            "totalt": 30,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 11/12",
+                "dato": "24.09.2011",
+                "url": "http://www.poengliga.no/eliteh/1112/kamper/3web.html",
+                "motstandere": "Oslo Volley - Randaberg",
+                "resultat": "1-3"
             }
         },
         {
@@ -609,6 +609,22 @@
             }
         },
         {
+            "navn": "Gøranson, K.A.",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 13,
+            "serve": 2,
+            "angrep": 24,
+            "blokk": 2,
+            "totalt": 28,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 06/07",
+                "dato": "",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/20web.html",
+                "motstandere": "Kristiansund VBK - Dragvoll",
+                "resultat": "3-2"
+            }
+        },
+        {
             "navn": "Numme, Nils",
             "klubb": "Førde VBK",
             "draktNr": 4,
@@ -625,18 +641,18 @@
             }
         },
         {
-            "navn": "Gøranson, K.A.",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 13,
-            "serve": 2,
+            "navn": "Hylland, Vetle",
+            "klubb": "Viking",
+            "draktNr": 18,
+            "serve": 0,
             "angrep": 24,
-            "blokk": 2,
+            "blokk": 4,
             "totalt": 28,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 06/07",
+                "turnering": "Eliteserien Herrer 16/17",
                 "dato": "",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/20web.html",
-                "motstandere": "Kristiansund VBK - Dragvoll",
+                "url": "http://www.poengliga.no/eliteh/1617/kamper/37web.html",
+                "motstandere": "Viking - Førde VBK",
                 "resultat": "3-2"
             }
         },
@@ -897,22 +913,6 @@
             }
         },
         {
-            "navn": "Ounpuu, Andris",
-            "klubb": "Randaberg",
-            "draktNr": 5,
-            "serve": 0,
-            "angrep": 26,
-            "blokk": 0,
-            "totalt": 26,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 08/09",
-                "dato": "13.12.2008",
-                "url": "http://www.poengliga.no/eliteh/0809/kamper/31web.html",
-                "motstandere": "Førde VBK - Randaberg",
-                "resultat": "2-3"
-            }
-        },
-        {
             "navn": "Loftesnes, Mathias",
             "klubb": "Førde VBK",
             "draktNr": 5,
@@ -925,6 +925,22 @@
                 "dato": "1.11.2015",
                 "url": "http://www.poengliga.no/eliteh/1516/kamper/11web.html",
                 "motstandere": "Randaberg - Førde VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Ounpuu, Andris",
+            "klubb": "Randaberg",
+            "draktNr": 5,
+            "serve": 0,
+            "angrep": 26,
+            "blokk": 0,
+            "totalt": 26,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 08/09",
+                "dato": "13.12.2008",
+                "url": "http://www.poengliga.no/eliteh/0809/kamper/31web.html",
+                "motstandere": "Førde VBK - Randaberg",
                 "resultat": "2-3"
             }
         },
@@ -1233,22 +1249,6 @@
             }
         },
         {
-            "navn": "Ristic, Ivan",
-            "klubb": "BK Tromsø",
-            "draktNr": 7,
-            "serve": 0,
-            "angrep": 24,
-            "blokk": 1,
-            "totalt": 25,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 13/14",
-                "dato": "15.03.2014",
-                "url": "http://www.poengliga.no/eliteh/1314/kamper/67web.html",
-                "motstandere": "BK Tromsø - Nyborg VBK",
-                "resultat": "2-3"
-            }
-        },
-        {
             "navn": "Kvamsdal, Morten",
             "klubb": "Koll",
             "draktNr": 4,
@@ -1265,18 +1265,34 @@
             }
         },
         {
-            "navn": "Helland, Ole M.",
-            "klubb": "Randaberg",
-            "draktNr": 14,
-            "serve": 1,
-            "angrep": 23,
+            "navn": "Festøy, Sigurd van Dijk",
+            "klubb": "NTNUI",
+            "draktNr": 9,
+            "serve": 0,
+            "angrep": 24,
             "blokk": 1,
             "totalt": 25,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "28.10.2007",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/10web.html",
-                "motstandere": "Kristiansund VBK - Randaberg",
+                "turnering": "Eliteserien Herrer 16/17",
+                "dato": "5.03.2017",
+                "url": "http://www.poengliga.no/eliteh/1617/kamper/39web.html",
+                "motstandere": "Koll - NTNUI",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Ristic, Ivan",
+            "klubb": "BK Tromsø",
+            "draktNr": 7,
+            "serve": 0,
+            "angrep": 24,
+            "blokk": 1,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 13/14",
+                "dato": "15.03.2014",
+                "url": "http://www.poengliga.no/eliteh/1314/kamper/67web.html",
+                "motstandere": "BK Tromsø - Nyborg VBK",
                 "resultat": "2-3"
             }
         },
@@ -1297,6 +1313,22 @@
             }
         },
         {
+            "navn": "Gøranson, Kjell Arne",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 13,
+            "serve": 1,
+            "angrep": 23,
+            "blokk": 1,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 11/12",
+                "dato": "25.09.2011",
+                "url": "http://www.poengliga.no/eliteh/1112/kamper/4web.html",
+                "motstandere": "Nyborg VBK - Kristiansund VBK",
+                "resultat": "3-1"
+            }
+        },
+        {
             "navn": "Boxaspen, Øyvind",
             "klubb": "Kristiansund VBK",
             "draktNr": 5,
@@ -1313,6 +1345,22 @@
             }
         },
         {
+            "navn": "Helland, Ole M.",
+            "klubb": "Randaberg",
+            "draktNr": 14,
+            "serve": 1,
+            "angrep": 23,
+            "blokk": 1,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "28.10.2007",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/10web.html",
+                "motstandere": "Kristiansund VBK - Randaberg",
+                "resultat": "2-3"
+            }
+        },
+        {
             "navn": "Jacobsen, Alexander",
             "klubb": "Oslo Volley",
             "draktNr": 3,
@@ -1326,22 +1374,6 @@
                 "url": "http://www.poengliga.no/eliteh/0910/kamper/28web.html",
                 "motstandere": "Oslo Volley - Randaberg",
                 "resultat": "2-3"
-            }
-        },
-        {
-            "navn": "Gøranson, Kjell Arne",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 13,
-            "serve": 1,
-            "angrep": 23,
-            "blokk": 1,
-            "totalt": 25,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 11/12",
-                "dato": "25.09.2011",
-                "url": "http://www.poengliga.no/eliteh/1112/kamper/4web.html",
-                "motstandere": "Nyborg VBK - Kristiansund VBK",
-                "resultat": "3-1"
             }
         },
         {
@@ -1409,22 +1441,6 @@
             }
         },
         {
-            "navn": "Kvalen, Jonas",
-            "klubb": "Førde VBK",
-            "draktNr": 1,
-            "serve": 1,
-            "angrep": 22,
-            "blokk": 2,
-            "totalt": 25,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 11/12",
-                "dato": "17.03.2012",
-                "url": "http://www.poengliga.no/eliteh/1112/kamper/61web.html",
-                "motstandere": "Førde VBK - Nyborg VBK",
-                "resultat": "3-2"
-            }
-        },
-        {
             "navn": "Loftesnes, Mathias",
             "klubb": "Førde VBK",
             "draktNr": 5,
@@ -1438,6 +1454,22 @@
                 "url": "http://www.poengliga.no/eliteh/1617/kamper/23web.html",
                 "motstandere": "Førde VBK - BK Tromsø",
                 "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Kvalen, Jonas",
+            "klubb": "Førde VBK",
+            "draktNr": 1,
+            "serve": 1,
+            "angrep": 22,
+            "blokk": 2,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 11/12",
+                "dato": "17.03.2012",
+                "url": "http://www.poengliga.no/eliteh/1112/kamper/61web.html",
+                "motstandere": "Førde VBK - Nyborg VBK",
+                "resultat": "3-2"
             }
         },
         {
@@ -1473,22 +1505,6 @@
             }
         },
         {
-            "navn": "Festøy, Sigurd van Dijk",
-            "klubb": "NTNUI",
-            "draktNr": 9,
-            "serve": 2,
-            "angrep": 21,
-            "blokk": 2,
-            "totalt": 25,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 16/17",
-                "dato": "7.01.2017",
-                "url": "http://www.poengliga.no/eliteh/1617/kamper/24web.html",
-                "motstandere": "TVN - NTNUI",
-                "resultat": "0-3"
-            }
-        },
-        {
             "navn": "Boxaspen, Øyvind",
             "klubb": "Kristiansund VBK",
             "draktNr": 5,
@@ -1505,19 +1521,19 @@
             }
         },
         {
-            "navn": "Godø, Sjur",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 4,
-            "serve": 1,
+            "navn": "Festøy, Sigurd van Dijk",
+            "klubb": "NTNUI",
+            "draktNr": 9,
+            "serve": 2,
             "angrep": 21,
-            "blokk": 3,
+            "blokk": 2,
             "totalt": 25,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 13/14",
-                "dato": "12.10.2013",
-                "url": "http://www.poengliga.no/eliteh/1314/kamper/4web.html",
-                "motstandere": "Kristiansund VBK - Oslo Volley",
-                "resultat": "2-3"
+                "turnering": "Eliteserien Herrer 16/17",
+                "dato": "7.01.2017",
+                "url": "http://www.poengliga.no/eliteh/1617/kamper/24web.html",
+                "motstandere": "TVN - NTNUI",
+                "resultat": "0-3"
             }
         },
         {
@@ -1550,6 +1566,22 @@
                 "url": "http://www.poengliga.no/eliteh/0607/kamper/56web.html",
                 "motstandere": "BK Tromsø - Nyborg VBK",
                 "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Godø, Sjur",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 4,
+            "serve": 1,
+            "angrep": 21,
+            "blokk": 3,
+            "totalt": 25,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 13/14",
+                "dato": "12.10.2013",
+                "url": "http://www.poengliga.no/eliteh/1314/kamper/4web.html",
+                "motstandere": "Kristiansund VBK - Oslo Volley",
+                "resultat": "2-3"
             }
         },
         {
@@ -1713,22 +1745,6 @@
             }
         },
         {
-            "navn": "Torjusen, Einar",
-            "klubb": "Koll",
-            "draktNr": 11,
-            "serve": 0,
-            "angrep": 24,
-            "blokk": 0,
-            "totalt": 24,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 16/17",
-                "dato": "22.10.2016",
-                "url": "http://www.poengliga.no/eliteh/1617/kamper/13web.html",
-                "motstandere": "TVN - Koll",
-                "resultat": "3-2"
-            }
-        },
-        {
             "navn": "Hansen, Ask H.",
             "klubb": "Nyborg VBK",
             "draktNr": 15,
@@ -1757,6 +1773,22 @@
                 "dato": "22.03.2014",
                 "url": "http://www.poengliga.no/eliteh/1314/kamper/69web.html",
                 "motstandere": "NTNUI Volley - Førde VBK",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Torjusen, Einar",
+            "klubb": "Koll",
+            "draktNr": 11,
+            "serve": 0,
+            "angrep": 24,
+            "blokk": 0,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 16/17",
+                "dato": "22.10.2016",
+                "url": "http://www.poengliga.no/eliteh/1617/kamper/13web.html",
+                "motstandere": "TVN - Koll",
                 "resultat": "3-2"
             }
         },
@@ -1793,22 +1825,6 @@
             }
         },
         {
-            "navn": "Myhr, Anders",
-            "klubb": "Koll",
-            "draktNr": 12,
-            "serve": 1,
-            "angrep": 22,
-            "blokk": 1,
-            "totalt": 24,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 12/13",
-                "dato": "3.03.2013",
-                "url": "http://www.poengliga.no/eliteh/1213/kamper/66web.html",
-                "motstandere": "Koll - Randaberg",
-                "resultat": "2-3"
-            }
-        },
-        {
             "navn": "Henriksen, Lars I.",
             "klubb": "BK Tromsø",
             "draktNr": 11,
@@ -1838,6 +1854,22 @@
                 "url": "http://www.poengliga.no/eliteh/1213/kamper/40web.html",
                 "motstandere": "Randaberg - Koll",
                 "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Myhr, Anders",
+            "klubb": "Koll",
+            "draktNr": 12,
+            "serve": 1,
+            "angrep": 22,
+            "blokk": 1,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 12/13",
+                "dato": "3.03.2013",
+                "url": "http://www.poengliga.no/eliteh/1213/kamper/66web.html",
+                "motstandere": "Koll - Randaberg",
+                "resultat": "2-3"
             }
         },
         {
@@ -1873,22 +1905,6 @@
             }
         },
         {
-            "navn": "Boxaspen, Øyvind",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 5,
-            "serve": 2,
-            "angrep": 21,
-            "blokk": 1,
-            "totalt": 24,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "2.02.2008",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/44web.html",
-                "motstandere": "Kristiansund VBK - Oslo Volley",
-                "resultat": "3-2"
-            }
-        },
-        {
             "navn": "Loftesnes, Mathias",
             "klubb": "Førde VBK",
             "draktNr": 5,
@@ -1902,6 +1918,22 @@
                 "url": "http://www.poengliga.no/eliteh/1213/kamper/52web.html",
                 "motstandere": "Oslo Volley - Førde VBK",
                 "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Boxaspen, Øyvind",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 5,
+            "serve": 2,
+            "angrep": 21,
+            "blokk": 1,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "2.02.2008",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/44web.html",
+                "motstandere": "Kristiansund VBK - Oslo Volley",
+                "resultat": "3-2"
             }
         },
         {
@@ -1953,22 +1985,6 @@
             }
         },
         {
-            "navn": "Mossmann, Tom H.",
-            "klubb": "Randaberg",
-            "draktNr": 10,
-            "serve": 3,
-            "angrep": 19,
-            "blokk": 2,
-            "totalt": 24,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 10/11",
-                "dato": "5.02.2011",
-                "url": "http://www.poengliga.no/eliteh/1011/kamper/45web.html",
-                "motstandere": "Randaberg - Førde VBK",
-                "resultat": "2-3"
-            }
-        },
-        {
             "navn": "Myhr, Anders",
             "klubb": "Dragvoll",
             "draktNr": 6,
@@ -1982,6 +1998,22 @@
                 "url": "http://www.poengliga.no/eliteh/0607/kamper/40web.html",
                 "motstandere": "Dragvoll - Kristiansund VBK",
                 "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Mossmann, Tom H.",
+            "klubb": "Randaberg",
+            "draktNr": 10,
+            "serve": 3,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 10/11",
+                "dato": "5.02.2011",
+                "url": "http://www.poengliga.no/eliteh/1011/kamper/45web.html",
+                "motstandere": "Randaberg - Førde VBK",
+                "resultat": "2-3"
             }
         },
         {
@@ -2017,22 +2049,6 @@
             }
         },
         {
-            "navn": "Olsen, Henning K.",
-            "klubb": "Oslo Volley",
-            "draktNr": 3,
-            "serve": 0,
-            "angrep": 19,
-            "blokk": 5,
-            "totalt": 24,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 11/12",
-                "dato": "19.02.2012",
-                "url": "http://www.poengliga.no/eliteh/1112/kamper/50web.html",
-                "motstandere": "Oslo Volley - Kristiansund VBK",
-                "resultat": "3-2"
-            }
-        },
-        {
             "navn": "Inderøy, Ruben",
             "klubb": "Førde VBK",
             "draktNr": 14,
@@ -2046,6 +2062,22 @@
                 "url": "http://www.poengliga.no/eliteh/0708/kamper/26web.html",
                 "motstandere": "Randaberg - Førde VBK",
                 "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Olsen, Henning K.",
+            "klubb": "Oslo Volley",
+            "draktNr": 3,
+            "serve": 0,
+            "angrep": 19,
+            "blokk": 5,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 11/12",
+                "dato": "19.02.2012",
+                "url": "http://www.poengliga.no/eliteh/1112/kamper/50web.html",
+                "motstandere": "Oslo Volley - Kristiansund VBK",
+                "resultat": "3-2"
             }
         },
         {
@@ -2081,22 +2113,6 @@
             }
         },
         {
-            "navn": "Henriksen, Lars I.",
-            "klubb": "BK Tromsø",
-            "draktNr": 11,
-            "serve": 3,
-            "angrep": 18,
-            "blokk": 3,
-            "totalt": 24,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 08/09",
-                "dato": "21.03.2009",
-                "url": "http://www.poengliga.no/eliteh/0809/kamper/75web.html",
-                "motstandere": "BK Tromsø - TVN",
-                "resultat": "1-3"
-            }
-        },
-        {
             "navn": "Hordvik, Øivind",
             "klubb": "Nyborg VBK",
             "draktNr": 6,
@@ -2126,6 +2142,22 @@
                 "url": "http://www.poengliga.no/eliteh/0708/kamper/3web.html",
                 "motstandere": "Randaberg - TVN",
                 "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Henriksen, Lars I.",
+            "klubb": "BK Tromsø",
+            "draktNr": 11,
+            "serve": 3,
+            "angrep": 18,
+            "blokk": 3,
+            "totalt": 24,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 08/09",
+                "dato": "21.03.2009",
+                "url": "http://www.poengliga.no/eliteh/0809/kamper/75web.html",
+                "motstandere": "BK Tromsø - TVN",
+                "resultat": "1-3"
             }
         },
         {
@@ -2273,22 +2305,6 @@
             }
         },
         {
-            "navn": "Solhaug, Svein",
-            "klubb": "Koll",
-            "draktNr": 12,
-            "serve": 0,
-            "angrep": 22,
-            "blokk": 1,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 13/14",
-                "dato": "16.02.2014",
-                "url": "http://www.poengliga.no/eliteh/1314/kamper/58web.html",
-                "motstandere": "Koll - Førde VBK",
-                "resultat": "3-2"
-            }
-        },
-        {
             "navn": "Siljander, Ørjan",
             "klubb": "Nyborg VBK",
             "draktNr": 9,
@@ -2305,18 +2321,18 @@
             }
         },
         {
-            "navn": "Henriksen, Lars I.",
-            "klubb": "BK Tromsø",
-            "draktNr": 11,
-            "serve": 2,
-            "angrep": 21,
-            "blokk": 0,
+            "navn": "Solhaug, Svein",
+            "klubb": "Koll",
+            "draktNr": 12,
+            "serve": 0,
+            "angrep": 22,
+            "blokk": 1,
             "totalt": 23,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 08/09",
-                "dato": "7.12.2008",
-                "url": "http://www.poengliga.no/eliteh/0809/kamper/28web.html",
-                "motstandere": "Oslo Volley - BK Tromsø",
+                "turnering": "Eliteserien Herrer 13/14",
+                "dato": "16.02.2014",
+                "url": "http://www.poengliga.no/eliteh/1314/kamper/58web.html",
+                "motstandere": "Koll - Førde VBK",
                 "resultat": "3-2"
             }
         },
@@ -2350,6 +2366,22 @@
                 "url": "http://www.poengliga.no/eliteh/1213/kamper/18web.html",
                 "motstandere": "BK Tromsø - Oslo Volley",
                 "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Henriksen, Lars I.",
+            "klubb": "BK Tromsø",
+            "draktNr": 11,
+            "serve": 2,
+            "angrep": 21,
+            "blokk": 0,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 08/09",
+                "dato": "7.12.2008",
+                "url": "http://www.poengliga.no/eliteh/0809/kamper/28web.html",
+                "motstandere": "Oslo Volley - BK Tromsø",
+                "resultat": "3-2"
             }
         },
         {
@@ -2401,6 +2433,22 @@
             }
         },
         {
+            "navn": "Myhr, Anders",
+            "klubb": "BK Tromsø",
+            "draktNr": 10,
+            "serve": 0,
+            "angrep": 21,
+            "blokk": 2,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "7.10.2007",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/4web.html",
+                "motstandere": "TVN - BK Tromsø",
+                "resultat": "2-3"
+            }
+        },
+        {
             "navn": "Mossmann, Tom Harald",
             "klubb": "Randaberg",
             "draktNr": 5,
@@ -2433,19 +2481,19 @@
             }
         },
         {
-            "navn": "Myhr, Anders",
-            "klubb": "BK Tromsø",
-            "draktNr": 10,
-            "serve": 0,
-            "angrep": 21,
+            "navn": "Martin Spinnangr",
+            "klubb": "Randaberg",
+            "draktNr": 4,
+            "serve": 1,
+            "angrep": 20,
             "blokk": 2,
             "totalt": 23,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "7.10.2007",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/4web.html",
-                "motstandere": "TVN - BK Tromsø",
-                "resultat": "2-3"
+                "turnering": "Eliteserien Herrer 09/10",
+                "dato": "11.10.2009",
+                "url": "http://www.poengliga.no/eliteh/0910/kamper/8web.html",
+                "motstandere": "Nyborg VBK - Randaberg",
+                "resultat": "3-1"
             }
         },
         {
@@ -2465,22 +2513,6 @@
             }
         },
         {
-            "navn": "Martin Spinnangr",
-            "klubb": "Randaberg",
-            "draktNr": 4,
-            "serve": 1,
-            "angrep": 20,
-            "blokk": 2,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 09/10",
-                "dato": "11.10.2009",
-                "url": "http://www.poengliga.no/eliteh/0910/kamper/8web.html",
-                "motstandere": "Nyborg VBK - Randaberg",
-                "resultat": "3-1"
-            }
-        },
-        {
             "navn": "Mossmann, Tom Harald",
             "klubb": "Randaberg",
             "draktNr": 6,
@@ -2494,102 +2526,6 @@
                 "url": "http://www.poengliga.no/eliteh/1516/kamper/18web.html",
                 "motstandere": "BK Tromsø - Randaberg",
                 "resultat": "3-2"
-            }
-        },
-        {
-            "navn": "Reinertsen, Johannes F.",
-            "klubb": "NTNUI Volley",
-            "draktNr": 12,
-            "serve": 2,
-            "angrep": 19,
-            "blokk": 2,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 12/13",
-                "dato": "24.11.2012",
-                "url": "http://www.poengliga.no/eliteh/1213/kamper/24web.html",
-                "motstandere": "Nyborg VBK - NTNUI Volley",
-                "resultat": "3-2"
-            }
-        },
-        {
-            "navn": "Festøy, Sigurd van Dijk",
-            "klubb": "NTNUI Volley",
-            "draktNr": 17,
-            "serve": 2,
-            "angrep": 19,
-            "blokk": 2,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 15/16",
-                "dato": "24.10.2015",
-                "url": "http://www.poengliga.no/eliteh/1516/kamper/7web.html",
-                "motstandere": "Koll - NTNUI Volley",
-                "resultat": "1-3"
-            }
-        },
-        {
-            "navn": "Boxaspen, Øyvind",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 5,
-            "serve": 2,
-            "angrep": 19,
-            "blokk": 2,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 06/07",
-                "dato": "0",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/9web.html",
-                "motstandere": "Kristiansund VBK - BK Tromsø",
-                "resultat": "1-3"
-            }
-        },
-        {
-            "navn": "Hylland, Vetle",
-            "klubb": "Viking",
-            "draktNr": 18,
-            "serve": 2,
-            "angrep": 19,
-            "blokk": 2,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 16/17",
-                "dato": "2.10.2016",
-                "url": "http://www.poengliga.no/eliteh/1617/kamper/3web.html",
-                "motstandere": "Koll - Viking",
-                "resultat": "0-3"
-            }
-        },
-        {
-            "navn": "Hansen, Ask H.",
-            "klubb": "Randaberg",
-            "draktNr": 2,
-            "serve": 2,
-            "angrep": 19,
-            "blokk": 2,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 16/17",
-                "dato": "23.10.2016",
-                "url": "http://www.poengliga.no/eliteh/1617/kamper/14web.html",
-                "motstandere": "Randaberg - Koll",
-                "resultat": "3-1"
-            }
-        },
-        {
-            "navn": "Skarlund, T.",
-            "klubb": "Randaberg",
-            "draktNr": 9,
-            "serve": 2,
-            "angrep": 19,
-            "blokk": 2,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 06/07",
-                "dato": "2.12.2006",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/22web.html",
-                "motstandere": "Randaberg - KFUM Oslo",
-                "resultat": "2-3"
             }
         },
         {
@@ -2609,18 +2545,34 @@
             }
         },
         {
-            "navn": "Øvergård, Terje",
-            "klubb": "BK Tromsø",
-            "draktNr": 10,
+            "navn": "Boxaspen, Øyvind",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 5,
             "serve": 2,
             "angrep": 19,
             "blokk": 2,
             "totalt": 23,
             "kampInfo": {
                 "turnering": "Eliteserien Herrer 06/07",
-                "dato": "14.04.2007",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/55web.html",
-                "motstandere": "Nyborg VBK - BK Tromsø",
+                "dato": "0",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/9web.html",
+                "motstandere": "Kristiansund VBK - BK Tromsø",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Hansen, Ask H.",
+            "klubb": "Randaberg",
+            "draktNr": 2,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 16/17",
+                "dato": "23.10.2016",
+                "url": "http://www.poengliga.no/eliteh/1617/kamper/14web.html",
+                "motstandere": "Randaberg - Koll",
                 "resultat": "3-1"
             }
         },
@@ -2657,18 +2609,98 @@
             }
         },
         {
-            "navn": "Eithun, Geir",
-            "klubb": "Førde VBK",
-            "draktNr": 11,
+            "navn": "Øvergård, Terje",
+            "klubb": "BK Tromsø",
+            "draktNr": 10,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 06/07",
+                "dato": "14.04.2007",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/55web.html",
+                "motstandere": "Nyborg VBK - BK Tromsø",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Festøy, Sigurd van Dijk",
+            "klubb": "NTNUI Volley",
+            "draktNr": 17,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 15/16",
+                "dato": "24.10.2015",
+                "url": "http://www.poengliga.no/eliteh/1516/kamper/7web.html",
+                "motstandere": "Koll - NTNUI Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Hylland, Vetle",
+            "klubb": "Viking",
+            "draktNr": 18,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 16/17",
+                "dato": "2.10.2016",
+                "url": "http://www.poengliga.no/eliteh/1617/kamper/3web.html",
+                "motstandere": "Koll - Viking",
+                "resultat": "0-3"
+            }
+        },
+        {
+            "navn": "Reinertsen, Johannes F.",
+            "klubb": "NTNUI Volley",
+            "draktNr": 12,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 12/13",
+                "dato": "24.11.2012",
+                "url": "http://www.poengliga.no/eliteh/1213/kamper/24web.html",
+                "motstandere": "Nyborg VBK - NTNUI Volley",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Skarlund, T.",
+            "klubb": "Randaberg",
+            "draktNr": 9,
+            "serve": 2,
+            "angrep": 19,
+            "blokk": 2,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 06/07",
+                "dato": "2.12.2006",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/22web.html",
+                "motstandere": "Randaberg - KFUM Oslo",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Loftesnes, Mathias",
+            "klubb": "TVN",
+            "draktNr": 8,
             "serve": 1,
             "angrep": 19,
             "blokk": 3,
             "totalt": 23,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 09/10",
-                "dato": "22.11.2009",
-                "url": "http://www.poengliga.no/eliteh/0910/kamper/20web.html",
-                "motstandere": "Førde VBK - Kristiansund VBK",
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "7.10.2007",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/4web.html",
+                "motstandere": "TVN - BK Tromsø",
                 "resultat": "2-3"
             }
         },
@@ -2689,6 +2721,22 @@
             }
         },
         {
+            "navn": "Eithun, Geir",
+            "klubb": "Førde VBK",
+            "draktNr": 11,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 3,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 09/10",
+                "dato": "22.11.2009",
+                "url": "http://www.poengliga.no/eliteh/0910/kamper/20web.html",
+                "motstandere": "Førde VBK - Kristiansund VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
             "navn": "Synnevåg, Endre",
             "klubb": "Nyborg VBK",
             "draktNr": 5,
@@ -2702,38 +2750,6 @@
                 "url": "http://www.poengliga.no/eliteh/0607/kamper/33web.html",
                 "motstandere": "Nyborg VBK - Oslo Volley",
                 "resultat": "3-1"
-            }
-        },
-        {
-            "navn": "Loftesnes, Mathias",
-            "klubb": "TVN",
-            "draktNr": 8,
-            "serve": 1,
-            "angrep": 19,
-            "blokk": 3,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "7.10.2007",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/4web.html",
-                "motstandere": "TVN - BK Tromsø",
-                "resultat": "2-3"
-            }
-        },
-        {
-            "navn": "Hordvik, Øivind",
-            "klubb": "Nyborg VBK",
-            "draktNr": 6,
-            "serve": 3,
-            "angrep": 18,
-            "blokk": 2,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "3.02.2008",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/41web.html",
-                "motstandere": "TVN - Nyborg VBK",
-                "resultat": "1-3"
             }
         },
         {
@@ -2753,6 +2769,22 @@
             }
         },
         {
+            "navn": "Hordvik, Øivind",
+            "klubb": "Nyborg VBK",
+            "draktNr": 6,
+            "serve": 3,
+            "angrep": 18,
+            "blokk": 2,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "3.02.2008",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/41web.html",
+                "motstandere": "TVN - Nyborg VBK",
+                "resultat": "1-3"
+            }
+        },
+        {
             "navn": "Hylland, Vetle",
             "klubb": "KOLL",
             "draktNr": 8,
@@ -2765,22 +2797,6 @@
                 "dato": "11.03.2012",
                 "url": "http://www.poengliga.no/eliteh/1112/kamper/60web.html",
                 "motstandere": "KOLL - Randaberg",
-                "resultat": "3-1"
-            }
-        },
-        {
-            "navn": "Zylstra, Tony",
-            "klubb": "Randaberg",
-            "draktNr": 10,
-            "serve": 2,
-            "angrep": 18,
-            "blokk": 3,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 14/15",
-                "dato": "10.01.2015",
-                "url": "http://www.poengliga.no/eliteh/1415/kamper/22web.html",
-                "motstandere": "Kristiansund VBK - Randaberg",
                 "resultat": "3-1"
             }
         },
@@ -2801,6 +2817,22 @@
             }
         },
         {
+            "navn": "Zylstra, Tony",
+            "klubb": "Randaberg",
+            "draktNr": 10,
+            "serve": 2,
+            "angrep": 18,
+            "blokk": 3,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 14/15",
+                "dato": "10.01.2015",
+                "url": "http://www.poengliga.no/eliteh/1415/kamper/22web.html",
+                "motstandere": "Kristiansund VBK - Randaberg",
+                "resultat": "3-1"
+            }
+        },
+        {
             "navn": "Loftesnes, Mathias",
             "klubb": "TVN",
             "draktNr": 8,
@@ -2817,18 +2849,18 @@
             }
         },
         {
-            "navn": "Mossmann, Tom H.",
-            "klubb": "Randaberg",
-            "draktNr": 5,
+            "navn": "Godø, Sjur",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 4,
             "serve": 1,
             "angrep": 18,
             "blokk": 4,
             "totalt": 23,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 09/10",
-                "dato": "6.12.2009",
-                "url": "http://www.poengliga.no/eliteh/0910/kamper/22web.html",
-                "motstandere": "Randaberg - Oslo Volley",
+                "turnering": "Eliteserien Herrer 12/13",
+                "dato": "7.04.2013",
+                "url": "http://www.poengliga.no/eliteh/1213/kamper/82web.html",
+                "motstandere": "Kristiansund VBK - Koll",
                 "resultat": "3-1"
             }
         },
@@ -2849,18 +2881,18 @@
             }
         },
         {
-            "navn": "Godø, Sjur",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 4,
+            "navn": "Mossmann, Tom H.",
+            "klubb": "Randaberg",
+            "draktNr": 5,
             "serve": 1,
             "angrep": 18,
             "blokk": 4,
             "totalt": 23,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 12/13",
-                "dato": "7.04.2013",
-                "url": "http://www.poengliga.no/eliteh/1213/kamper/82web.html",
-                "motstandere": "Kristiansund VBK - Koll",
+                "turnering": "Eliteserien Herrer 09/10",
+                "dato": "6.12.2009",
+                "url": "http://www.poengliga.no/eliteh/0910/kamper/22web.html",
+                "motstandere": "Randaberg - Oslo Volley",
                 "resultat": "3-1"
             }
         },
@@ -2977,22 +3009,6 @@
             }
         },
         {
-            "navn": "Øvergård, Terje",
-            "klubb": "BK Tromsø",
-            "draktNr": 10,
-            "serve": 5,
-            "angrep": 14,
-            "blokk": 4,
-            "totalt": 23,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 10/11",
-                "dato": "25.09.2010",
-                "url": "http://www.poengliga.no/eliteh/1011/kamper/2web.html",
-                "motstandere": "BK Tromsø - Førde VBK",
-                "resultat": "3-2"
-            }
-        },
-        {
             "navn": "Bjelland, Kristian M.",
             "klubb": "Nyborg VBK",
             "draktNr": 10,
@@ -3005,6 +3021,22 @@
                 "dato": "25.10.2014",
                 "url": "http://www.poengliga.no/eliteh/1415/kamper/11web.html",
                 "motstandere": "Nyborg VBK - BK Tromsø",
+                "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Øvergård, Terje",
+            "klubb": "BK Tromsø",
+            "draktNr": 10,
+            "serve": 5,
+            "angrep": 14,
+            "blokk": 4,
+            "totalt": 23,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 10/11",
+                "dato": "25.09.2010",
+                "url": "http://www.poengliga.no/eliteh/1011/kamper/2web.html",
+                "motstandere": "BK Tromsø - Førde VBK",
                 "resultat": "3-2"
             }
         },
@@ -3073,6 +3105,22 @@
             }
         },
         {
+            "navn": "Kabicze, Marek",
+            "klubb": "Oslo Volley",
+            "draktNr": 12,
+            "serve": 0,
+            "angrep": 21,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 12/13",
+                "dato": "3.02.2013",
+                "url": "http://www.poengliga.no/eliteh/1213/kamper/52web.html",
+                "motstandere": "Oslo Volley - Førde VBK",
+                "resultat": "1-3"
+            }
+        },
+        {
             "navn": "Arnesen, Jon",
             "klubb": "NTNUI Volley",
             "draktNr": 9,
@@ -3121,38 +3169,6 @@
             }
         },
         {
-            "navn": "Kabicze, Marek",
-            "klubb": "Oslo Volley",
-            "draktNr": 12,
-            "serve": 0,
-            "angrep": 21,
-            "blokk": 1,
-            "totalt": 22,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 12/13",
-                "dato": "3.02.2013",
-                "url": "http://www.poengliga.no/eliteh/1213/kamper/52web.html",
-                "motstandere": "Oslo Volley - Førde VBK",
-                "resultat": "1-3"
-            }
-        },
-        {
-            "navn": "De Bleser, Brent",
-            "klubb": "Randaberg",
-            "draktNr": 12,
-            "serve": 2,
-            "angrep": 20,
-            "blokk": 0,
-            "totalt": 22,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 13/14",
-                "dato": "24.11.2013",
-                "url": "http://www.poengliga.no/eliteh/1314/kamper/19web.html",
-                "motstandere": "Randaberg - NTNUI Volley",
-                "resultat": "3-2"
-            }
-        },
-        {
             "navn": "Gøranson, Kjell Arne",
             "klubb": "Kristiansund VBK",
             "draktNr": 13,
@@ -3166,22 +3182,6 @@
                 "url": "http://www.poengliga.no/eliteh/1415/kamper/29web.html",
                 "motstandere": "Kristiansund VBK - Førde VBK",
                 "resultat": "2-3"
-            }
-        },
-        {
-            "navn": "Horrem, Iver",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 1,
-            "serve": 2,
-            "angrep": 20,
-            "blokk": 0,
-            "totalt": 22,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "8.12.2007",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/28web.html",
-                "motstandere": "Kristiansund VBK - BK Tromsø",
-                "resultat": "3-1"
             }
         },
         {
@@ -3201,6 +3201,38 @@
             }
         },
         {
+            "navn": "Horrem, Iver",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 1,
+            "serve": 2,
+            "angrep": 20,
+            "blokk": 0,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "8.12.2007",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/28web.html",
+                "motstandere": "Kristiansund VBK - BK Tromsø",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "De Bleser, Brent",
+            "klubb": "Randaberg",
+            "draktNr": 12,
+            "serve": 2,
+            "angrep": 20,
+            "blokk": 0,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 13/14",
+                "dato": "24.11.2013",
+                "url": "http://www.poengliga.no/eliteh/1314/kamper/19web.html",
+                "motstandere": "Randaberg - NTNUI Volley",
+                "resultat": "3-2"
+            }
+        },
+        {
             "navn": "Boxaspen, Øyvind",
             "klubb": "Kristiansund VBK",
             "draktNr": 5,
@@ -3214,6 +3246,22 @@
                 "url": "http://www.poengliga.no/eliteh/0708/kamper/60web.html",
                 "motstandere": "Kristiansund VBK - Førde VBK",
                 "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Gøranson, Kjell Arne",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 13,
+            "serve": 1,
+            "angrep": 20,
+            "blokk": 1,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 14/15",
+                "dato": "8.02.2015",
+                "url": "http://www.poengliga.no/eliteh/1415/kamper/27web.html",
+                "motstandere": "Kristiansund VBK - Koll",
+                "resultat": "3-1"
             }
         },
         {
@@ -3233,19 +3281,19 @@
             }
         },
         {
-            "navn": "Gøranson, Kjell Arne",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 13,
-            "serve": 1,
+            "navn": "Spinnangr, Martin",
+            "klubb": "Randaberg",
+            "draktNr": 4,
+            "serve": 0,
             "angrep": 20,
-            "blokk": 1,
+            "blokk": 2,
             "totalt": 22,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 14/15",
-                "dato": "8.02.2015",
-                "url": "http://www.poengliga.no/eliteh/1415/kamper/27web.html",
-                "motstandere": "Kristiansund VBK - Koll",
-                "resultat": "3-1"
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "9.12.2007",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/26web.html",
+                "motstandere": "Randaberg - Førde VBK",
+                "resultat": "2-3"
             }
         },
         {
@@ -3278,22 +3326,6 @@
                 "url": "http://www.poengliga.no/eliteh/1213/kamper/82web.html",
                 "motstandere": "Kristiansund VBK - Koll",
                 "resultat": "3-1"
-            }
-        },
-        {
-            "navn": "Spinnangr, Martin",
-            "klubb": "Randaberg",
-            "draktNr": 4,
-            "serve": 0,
-            "angrep": 20,
-            "blokk": 2,
-            "totalt": 22,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "9.12.2007",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/26web.html",
-                "motstandere": "Randaberg - Førde VBK",
-                "resultat": "2-3"
             }
         },
         {
@@ -3393,19 +3425,19 @@
             }
         },
         {
-            "navn": "Gøranson, Kjell Arne",
+            "navn": "Berntzen, Jon V.",
             "klubb": "Kristiansund VBK",
-            "draktNr": 13,
+            "draktNr": 8,
             "serve": 1,
             "angrep": 19,
             "blokk": 2,
             "totalt": 22,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 13/14",
-                "dato": "15.02.2014",
-                "url": "http://www.poengliga.no/eliteh/1314/kamper/55web.html",
-                "motstandere": "Kristiansund VBK - Randaberg",
-                "resultat": "1-3"
+                "turnering": "Eliteserien Herrer 09/10",
+                "dato": "6.02.2010",
+                "url": "http://www.poengliga.no/eliteh/0910/kamper/39web.html",
+                "motstandere": "BK Tromsø - Kristiansund VBK",
+                "resultat": "3-2"
             }
         },
         {
@@ -3441,19 +3473,19 @@
             }
         },
         {
-            "navn": "Berntzen, Jon V.",
+            "navn": "Gøranson, Kjell Arne",
             "klubb": "Kristiansund VBK",
-            "draktNr": 8,
+            "draktNr": 13,
             "serve": 1,
             "angrep": 19,
             "blokk": 2,
             "totalt": 22,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 09/10",
-                "dato": "6.02.2010",
-                "url": "http://www.poengliga.no/eliteh/0910/kamper/39web.html",
-                "motstandere": "BK Tromsø - Kristiansund VBK",
-                "resultat": "3-2"
+                "turnering": "Eliteserien Herrer 13/14",
+                "dato": "15.02.2014",
+                "url": "http://www.poengliga.no/eliteh/1314/kamper/55web.html",
+                "motstandere": "Kristiansund VBK - Randaberg",
+                "resultat": "1-3"
             }
         },
         {
@@ -3505,19 +3537,19 @@
             }
         },
         {
-            "navn": "Burik, Mark",
-            "klubb": "Oslo Volley",
-            "draktNr": 18,
+            "navn": "Bentsen, Mats",
+            "klubb": "Nyborg VBK",
+            "draktNr": 2,
             "serve": 3,
             "angrep": 18,
             "blokk": 1,
             "totalt": 22,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 10/11",
-                "dato": "20.11.2010",
-                "url": "http://www.poengliga.no/eliteh/1011/kamper/20web.html",
-                "motstandere": "Oslo Volley - Randaberg",
-                "resultat": "3-1"
+                "turnering": "Eliteserien Herrer 06/07",
+                "dato": "19.03.2007",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/49web.html",
+                "motstandere": "Dragvoll - Nyborg VBK",
+                "resultat": "3-2"
             }
         },
         {
@@ -3537,19 +3569,35 @@
             }
         },
         {
-            "navn": "Bentsen, Mats",
-            "klubb": "Nyborg VBK",
-            "draktNr": 2,
+            "navn": "Burik, Mark",
+            "klubb": "Oslo Volley",
+            "draktNr": 18,
             "serve": 3,
             "angrep": 18,
             "blokk": 1,
             "totalt": 22,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 06/07",
-                "dato": "19.03.2007",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/49web.html",
-                "motstandere": "Dragvoll - Nyborg VBK",
-                "resultat": "3-2"
+                "turnering": "Eliteserien Herrer 10/11",
+                "dato": "20.11.2010",
+                "url": "http://www.poengliga.no/eliteh/1011/kamper/20web.html",
+                "motstandere": "Oslo Volley - Randaberg",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Festøy, Sigurd van Dijk",
+            "klubb": "NTNUI Volley",
+            "draktNr": 17,
+            "serve": 2,
+            "angrep": 18,
+            "blokk": 2,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 15/16",
+                "dato": "13.03.2016",
+                "url": "http://www.poengliga.no/eliteh/1516/kamper/42web.html",
+                "motstandere": "NTNUI Volley - Koll",
+                "resultat": "3-0"
             }
         },
         {
@@ -3569,19 +3617,19 @@
             }
         },
         {
-            "navn": "Festøy, Sigurd van Dijk",
-            "klubb": "NTNUI Volley",
-            "draktNr": 17,
-            "serve": 2,
+            "navn": "Eithun, Geir",
+            "klubb": "Førde VBK",
+            "draktNr": 12,
+            "serve": 1,
             "angrep": 18,
-            "blokk": 2,
+            "blokk": 3,
             "totalt": 22,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 15/16",
-                "dato": "13.03.2016",
-                "url": "http://www.poengliga.no/eliteh/1516/kamper/42web.html",
-                "motstandere": "NTNUI Volley - Koll",
-                "resultat": "3-0"
+                "turnering": "Eliteserien Herrer 10/11",
+                "dato": "18.12.2010",
+                "url": "http://www.poengliga.no/eliteh/1011/kamper/30web.html",
+                "motstandere": "Oslo Volley - Førde VBK",
+                "resultat": "1-3"
             }
         },
         {
@@ -3614,22 +3662,6 @@
                 "url": "http://www.poengliga.no/eliteh/1112/kamper/24web.html",
                 "motstandere": "KOLL - Oslo Volley",
                 "resultat": "2-3"
-            }
-        },
-        {
-            "navn": "Eithun, Geir",
-            "klubb": "Førde VBK",
-            "draktNr": 12,
-            "serve": 1,
-            "angrep": 18,
-            "blokk": 3,
-            "totalt": 22,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 10/11",
-                "dato": "18.12.2010",
-                "url": "http://www.poengliga.no/eliteh/1011/kamper/30web.html",
-                "motstandere": "Oslo Volley - Førde VBK",
-                "resultat": "1-3"
             }
         },
         {
@@ -3745,22 +3777,6 @@
             }
         },
         {
-            "navn": "Boxaspen, Øyvind",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 5,
-            "serve": 3,
-            "angrep": 16,
-            "blokk": 3,
-            "totalt": 22,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "19.04.2008",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/76web.html",
-                "motstandere": "Kristiansund VBK - Randaberg",
-                "resultat": "2-3"
-            }
-        },
-        {
             "navn": "Numme, Nils",
             "klubb": "Førde VBK",
             "draktNr": 4,
@@ -3790,6 +3806,22 @@
                 "url": "http://www.poengliga.no/eliteh/1516/kamper/27web.html",
                 "motstandere": "BK Tromsø - Koll",
                 "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Boxaspen, Øyvind",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 5,
+            "serve": 3,
+            "angrep": 16,
+            "blokk": 3,
+            "totalt": 22,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "19.04.2008",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/76web.html",
+                "motstandere": "Kristiansund VBK - Randaberg",
+                "resultat": "2-3"
             }
         },
         {
@@ -3905,18 +3937,18 @@
             }
         },
         {
-            "navn": "Høidalen, Vegard",
+            "navn": "Jacobsen, Alexander",
             "klubb": "Oslo Volley",
-            "draktNr": 18,
+            "draktNr": 3,
             "serve": 0,
             "angrep": 20,
             "blokk": 1,
             "totalt": 21,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 06/07",
-                "dato": "7.01.2007",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/28web.html",
-                "motstandere": "Oslo Volley - Dragvoll",
+                "turnering": "Eliteserien Herrer 09/10",
+                "dato": "6.12.2009",
+                "url": "http://www.poengliga.no/eliteh/0910/kamper/22web.html",
+                "motstandere": "Randaberg - Oslo Volley",
                 "resultat": "3-1"
             }
         },
@@ -3969,6 +4001,22 @@
             }
         },
         {
+            "navn": "Høidalen, Vegard",
+            "klubb": "Oslo Volley",
+            "draktNr": 18,
+            "serve": 0,
+            "angrep": 20,
+            "blokk": 1,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 06/07",
+                "dato": "7.01.2007",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/28web.html",
+                "motstandere": "Oslo Volley - Dragvoll",
+                "resultat": "3-1"
+            }
+        },
+        {
             "navn": "Bjørbæk, Petter",
             "klubb": "Oslo Volley",
             "draktNr": 12,
@@ -3982,22 +4030,6 @@
                 "url": "http://www.poengliga.no/eliteh/0809/kamper/28web.html",
                 "motstandere": "Oslo Volley - BK Tromsø",
                 "resultat": "3-2"
-            }
-        },
-        {
-            "navn": "Jacobsen, Alexander",
-            "klubb": "Oslo Volley",
-            "draktNr": 3,
-            "serve": 0,
-            "angrep": 20,
-            "blokk": 1,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 09/10",
-                "dato": "6.12.2009",
-                "url": "http://www.poengliga.no/eliteh/0910/kamper/22web.html",
-                "motstandere": "Randaberg - Oslo Volley",
-                "resultat": "3-1"
             }
         },
         {
@@ -4033,9 +4065,9 @@
             }
         },
         {
-            "navn": "Gøranson, K.A.",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 13,
+            "navn": "Torsteinsen, Rune",
+            "klubb": "BK Tromsø",
+            "draktNr": 9,
             "serve": 1,
             "angrep": 19,
             "blokk": 1,
@@ -4043,24 +4075,8 @@
             "kampInfo": {
                 "turnering": "Eliteserien Herrer 06/07",
                 "dato": "0",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/31web.html",
-                "motstandere": "Kristiansund VBK - Randaberg",
-                "resultat": "3-0"
-            }
-        },
-        {
-            "navn": "Boxaspen, Øyvind",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 5,
-            "serve": 1,
-            "angrep": 19,
-            "blokk": 1,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "8.12.2007",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/28web.html",
-                "motstandere": "Kristiansund VBK - BK Tromsø",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/34web.html",
+                "motstandere": "BK Tromsø - Kristiansund VBK",
                 "resultat": "3-1"
             }
         },
@@ -4081,6 +4097,38 @@
             }
         },
         {
+            "navn": "Boxaspen, Øyvind",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 5,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 1,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "8.12.2007",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/28web.html",
+                "motstandere": "Kristiansund VBK - BK Tromsø",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Gøranson, K.A.",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 13,
+            "serve": 1,
+            "angrep": 19,
+            "blokk": 1,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 06/07",
+                "dato": "0",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/31web.html",
+                "motstandere": "Kristiansund VBK - Randaberg",
+                "resultat": "3-0"
+            }
+        },
+        {
             "navn": "Bjørbæk, Petter",
             "klubb": "Oslo Volley",
             "draktNr": 12,
@@ -4093,22 +4141,6 @@
                 "dato": "0",
                 "url": "http://www.poengliga.no/eliteh/0607/kamper/33web.html",
                 "motstandere": "Nyborg VBK - Oslo Volley",
-                "resultat": "3-1"
-            }
-        },
-        {
-            "navn": "Torsteinsen, Rune",
-            "klubb": "BK Tromsø",
-            "draktNr": 9,
-            "serve": 1,
-            "angrep": 19,
-            "blokk": 1,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 06/07",
-                "dato": "0",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/34web.html",
-                "motstandere": "BK Tromsø - Kristiansund VBK",
                 "resultat": "3-1"
             }
         },
@@ -4161,22 +4193,6 @@
             }
         },
         {
-            "navn": "Gøranson, Kjell Arne",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 13,
-            "serve": 3,
-            "angrep": 18,
-            "blokk": 0,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 10/11",
-                "dato": "10.10.2010",
-                "url": "http://www.poengliga.no/eliteh/1011/kamper/9web.html",
-                "motstandere": "Kristiansund VBK - Randaberg",
-                "resultat": "1-3"
-            }
-        },
-        {
             "navn": "Ristic, Ivan",
             "klubb": "BK Tromsø",
             "draktNr": 15,
@@ -4190,6 +4206,22 @@
                 "url": "http://www.poengliga.no/eliteh/1213/kamper/36web.html",
                 "motstandere": "Kristiansund VBK - BK Tromsø",
                 "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Gøranson, Kjell Arne",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 13,
+            "serve": 3,
+            "angrep": 18,
+            "blokk": 0,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 10/11",
+                "dato": "10.10.2010",
+                "url": "http://www.poengliga.no/eliteh/1011/kamper/9web.html",
+                "motstandere": "Kristiansund VBK - Randaberg",
+                "resultat": "1-3"
             }
         },
         {
@@ -4225,18 +4257,18 @@
             }
         },
         {
-            "navn": "Festøy, Sigurd",
-            "klubb": "Randaberg",
-            "draktNr": 6,
+            "navn": "Solhaug, Svein",
+            "klubb": "KOLL",
+            "draktNr": 12,
             "serve": 2,
             "angrep": 18,
             "blokk": 1,
             "totalt": 21,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 11/12",
-                "dato": "25.09.2011",
-                "url": "http://www.poengliga.no/eliteh/1112/kamper/5web.html",
-                "motstandere": "KOLL - Randaberg",
+                "turnering": "Eliteserien Herrer 10/11",
+                "dato": "9.10.2010",
+                "url": "http://www.poengliga.no/eliteh/1011/kamper/7web.html",
+                "motstandere": "Førde VBK - KOLL",
                 "resultat": "3-1"
             }
         },
@@ -4273,67 +4305,19 @@
             }
         },
         {
-            "navn": "Solhaug, Svein",
-            "klubb": "KOLL",
-            "draktNr": 12,
+            "navn": "Festøy, Sigurd",
+            "klubb": "Randaberg",
+            "draktNr": 6,
             "serve": 2,
             "angrep": 18,
             "blokk": 1,
             "totalt": 21,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 10/11",
-                "dato": "9.10.2010",
-                "url": "http://www.poengliga.no/eliteh/1011/kamper/7web.html",
-                "motstandere": "Førde VBK - KOLL",
+                "turnering": "Eliteserien Herrer 11/12",
+                "dato": "25.09.2011",
+                "url": "http://www.poengliga.no/eliteh/1112/kamper/5web.html",
+                "motstandere": "KOLL - Randaberg",
                 "resultat": "3-1"
-            }
-        },
-        {
-            "navn": "Lubiejwskij, Marcin",
-            "klubb": "Førde VBK",
-            "draktNr": 3,
-            "serve": 1,
-            "angrep": 18,
-            "blokk": 2,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 12/13",
-                "dato": "3.02.2013",
-                "url": "http://www.poengliga.no/eliteh/1213/kamper/52web.html",
-                "motstandere": "Oslo Volley - Førde VBK",
-                "resultat": "1-3"
-            }
-        },
-        {
-            "navn": "Burik, Mark",
-            "klubb": "Oslo Volley",
-            "draktNr": 18,
-            "serve": 1,
-            "angrep": 18,
-            "blokk": 2,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 10/11",
-                "dato": "13.11.2010",
-                "url": "http://www.poengliga.no/eliteh/1011/kamper/15web.html",
-                "motstandere": "Oslo Volley - Kristiansund VBK",
-                "resultat": "2-3"
-            }
-        },
-        {
-            "navn": "Gøranson, Kjell Arne",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 13,
-            "serve": 1,
-            "angrep": 18,
-            "blokk": 2,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 10/11",
-                "dato": "13.11.2010",
-                "url": "http://www.poengliga.no/eliteh/1011/kamper/15web.html",
-                "motstandere": "Oslo Volley - Kristiansund VBK",
-                "resultat": "2-3"
             }
         },
         {
@@ -4353,6 +4337,22 @@
             }
         },
         {
+            "navn": "Hylland, Vetle",
+            "klubb": "KOLL",
+            "draktNr": 8,
+            "serve": 1,
+            "angrep": 18,
+            "blokk": 2,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 11/12",
+                "dato": "8.01.2012",
+                "url": "http://www.poengliga.no/eliteh/1112/kamper/35web.html",
+                "motstandere": "KOLL - Nyborg VBK",
+                "resultat": "1-3"
+            }
+        },
+        {
             "navn": "Synnevåg, Endre",
             "klubb": "Nyborg VBK",
             "draktNr": 5,
@@ -4369,19 +4369,35 @@
             }
         },
         {
-            "navn": "Hylland, Vetle",
-            "klubb": "KOLL",
-            "draktNr": 8,
+            "navn": "Gøranson, Kjell Arne",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 13,
             "serve": 1,
             "angrep": 18,
             "blokk": 2,
             "totalt": 21,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 11/12",
-                "dato": "8.01.2012",
-                "url": "http://www.poengliga.no/eliteh/1112/kamper/35web.html",
-                "motstandere": "KOLL - Nyborg VBK",
-                "resultat": "1-3"
+                "turnering": "Eliteserien Herrer 10/11",
+                "dato": "13.11.2010",
+                "url": "http://www.poengliga.no/eliteh/1011/kamper/15web.html",
+                "motstandere": "Oslo Volley - Kristiansund VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Burik, Mark",
+            "klubb": "Oslo Volley",
+            "draktNr": 18,
+            "serve": 1,
+            "angrep": 18,
+            "blokk": 2,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 10/11",
+                "dato": "13.11.2010",
+                "url": "http://www.poengliga.no/eliteh/1011/kamper/15web.html",
+                "motstandere": "Oslo Volley - Kristiansund VBK",
+                "resultat": "2-3"
             }
         },
         {
@@ -4401,19 +4417,19 @@
             }
         },
         {
-            "navn": "Hordvik, Øivind",
-            "klubb": "Nyborg VBK",
-            "draktNr": 6,
-            "serve": 0,
+            "navn": "Lubiejwskij, Marcin",
+            "klubb": "Førde VBK",
+            "draktNr": 3,
+            "serve": 1,
             "angrep": 18,
-            "blokk": 3,
+            "blokk": 2,
             "totalt": 21,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 08/09",
-                "dato": "17.01.2009",
-                "url": "http://www.poengliga.no/eliteh/0809/kamper/42web.html",
-                "motstandere": "Førde VBK - Nyborg VBK",
-                "resultat": "3-1"
+                "turnering": "Eliteserien Herrer 12/13",
+                "dato": "3.02.2013",
+                "url": "http://www.poengliga.no/eliteh/1213/kamper/52web.html",
+                "motstandere": "Oslo Volley - Førde VBK",
+                "resultat": "1-3"
             }
         },
         {
@@ -4430,6 +4446,22 @@
                 "url": "http://www.poengliga.no/eliteh/1516/kamper/18web.html",
                 "motstandere": "BK Tromsø - Randaberg",
                 "resultat": "3-2"
+            }
+        },
+        {
+            "navn": "Hordvik, Øivind",
+            "klubb": "Nyborg VBK",
+            "draktNr": 6,
+            "serve": 0,
+            "angrep": 18,
+            "blokk": 3,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 08/09",
+                "dato": "17.01.2009",
+                "url": "http://www.poengliga.no/eliteh/0809/kamper/42web.html",
+                "motstandere": "Førde VBK - Nyborg VBK",
+                "resultat": "3-1"
             }
         },
         {
@@ -4497,6 +4529,22 @@
             }
         },
         {
+            "navn": "Siljander, Ørjan",
+            "klubb": "Nyborg VBK",
+            "draktNr": 9,
+            "serve": 3,
+            "angrep": 17,
+            "blokk": 1,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 10/11",
+                "dato": "15.01.2011",
+                "url": "http://www.poengliga.no/eliteh/1011/kamper/35web.html",
+                "motstandere": "KOLL - Nyborg VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
             "navn": "Loftesnes, Mathias",
             "klubb": "Førde VBK",
             "draktNr": 5,
@@ -4516,16 +4564,16 @@
             "navn": "Siljander, Ørjan",
             "klubb": "Nyborg VBK",
             "draktNr": 9,
-            "serve": 3,
+            "serve": 2,
             "angrep": 17,
-            "blokk": 1,
+            "blokk": 2,
             "totalt": 21,
             "kampInfo": {
                 "turnering": "Eliteserien Herrer 10/11",
-                "dato": "15.01.2011",
-                "url": "http://www.poengliga.no/eliteh/1011/kamper/35web.html",
+                "dato": "5.03.2011",
+                "url": "http://www.poengliga.no/eliteh/1011/kamper/56web.html",
                 "motstandere": "KOLL - Nyborg VBK",
-                "resultat": "2-3"
+                "resultat": "1-3"
             }
         },
         {
@@ -4542,38 +4590,6 @@
                 "url": "http://www.poengliga.no/eliteh/1415/kamper/27web.html",
                 "motstandere": "Kristiansund VBK - Koll",
                 "resultat": "3-1"
-            }
-        },
-        {
-            "navn": "Siljander, Ørjan",
-            "klubb": "Nyborg VBK",
-            "draktNr": 9,
-            "serve": 2,
-            "angrep": 17,
-            "blokk": 2,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 10/11",
-                "dato": "5.03.2011",
-                "url": "http://www.poengliga.no/eliteh/1011/kamper/56web.html",
-                "motstandere": "KOLL - Nyborg VBK",
-                "resultat": "1-3"
-            }
-        },
-        {
-            "navn": "Østvik, Kristoffer",
-            "klubb": "BK Tromsø",
-            "draktNr": 1,
-            "serve": 1,
-            "angrep": 17,
-            "blokk": 3,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 13/14",
-                "dato": "30.03.2014",
-                "url": "http://www.poengliga.no/eliteh/1314/kamper/78web.html",
-                "motstandere": "BK Tromsø - Førde VBK",
-                "resultat": "2-3"
             }
         },
         {
@@ -4609,19 +4625,19 @@
             }
         },
         {
-            "navn": "Inderøy, Ruben",
-            "klubb": "Førde VBK",
-            "draktNr": 14,
-            "serve": 0,
+            "navn": "Østvik, Kristoffer",
+            "klubb": "BK Tromsø",
+            "draktNr": 1,
+            "serve": 1,
             "angrep": 17,
-            "blokk": 4,
+            "blokk": 3,
             "totalt": 21,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 09/10",
-                "dato": "6.03.2010",
-                "url": "http://www.poengliga.no/eliteh/0910/kamper/52web.html",
-                "motstandere": "Randaberg - Førde VBK",
-                "resultat": "1-3"
+                "turnering": "Eliteserien Herrer 13/14",
+                "dato": "30.03.2014",
+                "url": "http://www.poengliga.no/eliteh/1314/kamper/78web.html",
+                "motstandere": "BK Tromsø - Førde VBK",
+                "resultat": "2-3"
             }
         },
         {
@@ -4653,6 +4669,22 @@
                 "dato": "20.02.2016",
                 "url": "http://www.poengliga.no/eliteh/1516/kamper/34web.html",
                 "motstandere": "Randaberg - NTNUI Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Inderøy, Ruben",
+            "klubb": "Førde VBK",
+            "draktNr": 14,
+            "serve": 0,
+            "angrep": 17,
+            "blokk": 4,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 09/10",
+                "dato": "6.03.2010",
+                "url": "http://www.poengliga.no/eliteh/0910/kamper/52web.html",
+                "motstandere": "Randaberg - Førde VBK",
                 "resultat": "1-3"
             }
         },
@@ -4689,22 +4721,6 @@
             }
         },
         {
-            "navn": "Solhaug, Svein",
-            "klubb": "KOLL",
-            "draktNr": 12,
-            "serve": 2,
-            "angrep": 16,
-            "blokk": 3,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 11/12",
-                "dato": "26.11.2011",
-                "url": "http://www.poengliga.no/eliteh/1112/kamper/24web.html",
-                "motstandere": "KOLL - Oslo Volley",
-                "resultat": "2-3"
-            }
-        },
-        {
             "navn": "Reinertsen, Johannes F.",
             "klubb": "NTNUI Volley",
             "draktNr": 12,
@@ -4718,6 +4734,22 @@
                 "url": "http://www.poengliga.no/eliteh/1213/kamper/6web.html",
                 "motstandere": "Randaberg - NTNUI Volley",
                 "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Solhaug, Svein",
+            "klubb": "KOLL",
+            "draktNr": 12,
+            "serve": 2,
+            "angrep": 16,
+            "blokk": 3,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 11/12",
+                "dato": "26.11.2011",
+                "url": "http://www.poengliga.no/eliteh/1112/kamper/24web.html",
+                "motstandere": "KOLL - Oslo Volley",
+                "resultat": "2-3"
             }
         },
         {
@@ -4785,22 +4817,6 @@
             }
         },
         {
-            "navn": "Numme, Nils",
-            "klubb": "Førde VBK",
-            "draktNr": 4,
-            "serve": 2,
-            "angrep": 15,
-            "blokk": 4,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 06/07",
-                "dato": "5.11.2006",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/17web.html",
-                "motstandere": "KFUM Oslo - Førde VBK",
-                "resultat": "0-3"
-            }
-        },
-        {
             "navn": "Numme, Nils E.",
             "klubb": "Førde VBK",
             "draktNr": 4,
@@ -4814,6 +4830,22 @@
                 "url": "http://www.poengliga.no/eliteh/1011/kamper/58web.html",
                 "motstandere": "Førde VBK - Kristiansund VBK",
                 "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Numme, Nils",
+            "klubb": "Førde VBK",
+            "draktNr": 4,
+            "serve": 2,
+            "angrep": 15,
+            "blokk": 4,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 06/07",
+                "dato": "5.11.2006",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/17web.html",
+                "motstandere": "KFUM Oslo - Førde VBK",
+                "resultat": "0-3"
             }
         },
         {
@@ -4833,22 +4865,6 @@
             }
         },
         {
-            "navn": "Støyten, Martin",
-            "klubb": "BK Tromsø",
-            "draktNr": 3,
-            "serve": 1,
-            "angrep": 15,
-            "blokk": 5,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 11/12",
-                "dato": "1.10.2011",
-                "url": "http://www.poengliga.no/eliteh/1112/kamper/8web.html",
-                "motstandere": "BK Tromsø - Kristiansund VBK",
-                "resultat": "3-2"
-            }
-        },
-        {
             "navn": "Kvamsdal, Morten",
             "klubb": "Nyborg VBK",
             "draktNr": 8,
@@ -4862,6 +4878,22 @@
                 "url": "http://www.poengliga.no/eliteh/0809/kamper/72web.html",
                 "motstandere": "Randaberg - Nyborg VBK",
                 "resultat": "0-3"
+            }
+        },
+        {
+            "navn": "Støyten, Martin",
+            "klubb": "BK Tromsø",
+            "draktNr": 3,
+            "serve": 1,
+            "angrep": 15,
+            "blokk": 5,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 11/12",
+                "dato": "1.10.2011",
+                "url": "http://www.poengliga.no/eliteh/1112/kamper/8web.html",
+                "motstandere": "BK Tromsø - Kristiansund VBK",
+                "resultat": "3-2"
             }
         },
         {
@@ -4913,6 +4945,22 @@
             }
         },
         {
+            "navn": "Hordvik, Øivind",
+            "klubb": "Nyborg VBK",
+            "draktNr": 6,
+            "serve": 3,
+            "angrep": 14,
+            "blokk": 4,
+            "totalt": 21,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "13.01.2008",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/31web.html",
+                "motstandere": "Oslo Volley - Nyborg VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
             "navn": "Siljander, Ørjan",
             "klubb": "Nyborg VBK",
             "draktNr": 9,
@@ -4942,22 +4990,6 @@
                 "url": "http://www.poengliga.no/eliteh/1213/kamper/10web.html",
                 "motstandere": "Kristiansund VBK - NTNUI Volley",
                 "resultat": "3-1"
-            }
-        },
-        {
-            "navn": "Hordvik, Øivind",
-            "klubb": "Nyborg VBK",
-            "draktNr": 6,
-            "serve": 3,
-            "angrep": 14,
-            "blokk": 4,
-            "totalt": 21,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "13.01.2008",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/31web.html",
-                "motstandere": "Oslo Volley - Nyborg VBK",
-                "resultat": "2-3"
             }
         },
         {
@@ -4993,6 +5025,22 @@
             }
         },
         {
+            "navn": "Gøranson, Kjell Arne",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 13,
+            "serve": 0,
+            "angrep": 20,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 09/10",
+                "dato": "17.10.2009",
+                "url": "http://www.poengliga.no/eliteh/0910/kamper/9web.html",
+                "motstandere": "Randaberg - Kristiansund VBK",
+                "resultat": "3-0"
+            }
+        },
+        {
             "navn": "Hylland, Vetle",
             "klubb": "KOLL",
             "draktNr": 8,
@@ -5009,19 +5057,19 @@
             }
         },
         {
-            "navn": "Gøranson, Kjell Arne",
+            "navn": "Myhr, Anders",
             "klubb": "Kristiansund VBK",
-            "draktNr": 13,
-            "serve": 0,
-            "angrep": 20,
+            "draktNr": 18,
+            "serve": 1,
+            "angrep": 19,
             "blokk": 0,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 09/10",
-                "dato": "17.10.2009",
-                "url": "http://www.poengliga.no/eliteh/0910/kamper/9web.html",
-                "motstandere": "Randaberg - Kristiansund VBK",
-                "resultat": "3-0"
+                "turnering": "Eliteserien Herrer 13/14",
+                "dato": "22.03.2014",
+                "url": "http://www.poengliga.no/eliteh/1314/kamper/70web.html",
+                "motstandere": "Kristiansund VBK - Nyborg VBK",
+                "resultat": "1-3"
             }
         },
         {
@@ -5057,38 +5105,6 @@
             }
         },
         {
-            "navn": "Myhr, Anders",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 18,
-            "serve": 1,
-            "angrep": 19,
-            "blokk": 0,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 13/14",
-                "dato": "22.03.2014",
-                "url": "http://www.poengliga.no/eliteh/1314/kamper/70web.html",
-                "motstandere": "Kristiansund VBK - Nyborg VBK",
-                "resultat": "1-3"
-            }
-        },
-        {
-            "navn": "Numme, Nils",
-            "klubb": "Førde VBK",
-            "draktNr": 4,
-            "serve": 0,
-            "angrep": 19,
-            "blokk": 1,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 06/07",
-                "dato": "0",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/23web.html",
-                "motstandere": "Dragvoll - Førde VBK",
-                "resultat": "3-1"
-            }
-        },
-        {
             "navn": "Hylland, Vetle",
             "klubb": "KOLL",
             "draktNr": 8,
@@ -5105,34 +5121,18 @@
             }
         },
         {
-            "navn": "Gøranson, Kjell Arne",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 13,
-            "serve": 0,
-            "angrep": 19,
-            "blokk": 1,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 11/12",
-                "dato": "11.12.2011",
-                "url": "http://www.poengliga.no/eliteh/1112/kamper/26web.html",
-                "motstandere": "Kristiansund VBK - Nyborg VBK",
-                "resultat": "0-3"
-            }
-        },
-        {
-            "navn": "Khanevski, Andrej",
-            "klubb": "Nyborg VBK",
+            "navn": "Spinnangr, Martin",
+            "klubb": "Randaberg",
             "draktNr": 4,
             "serve": 0,
             "angrep": 19,
             "blokk": 1,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "13.10.2007",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/7web.html",
-                "motstandere": "BK Tromsø - Nyborg VBK",
+                "turnering": "Eliteserien Herrer 06/07",
+                "dato": "",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/2web.html",
+                "motstandere": "Randaberg - Kristiansund VBK",
                 "resultat": "3-2"
             }
         },
@@ -5150,6 +5150,22 @@
                 "url": "http://www.poengliga.no/eliteh/0708/kamper/60web.html",
                 "motstandere": "Kristiansund VBK - Førde VBK",
                 "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Khanevski, Andrej",
+            "klubb": "Nyborg VBK",
+            "draktNr": 4,
+            "serve": 0,
+            "angrep": 19,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "13.10.2007",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/7web.html",
+                "motstandere": "BK Tromsø - Nyborg VBK",
+                "resultat": "3-2"
             }
         },
         {
@@ -5185,8 +5201,8 @@
             }
         },
         {
-            "navn": "Spinnangr, Martin",
-            "klubb": "Randaberg",
+            "navn": "Numme, Nils",
+            "klubb": "Førde VBK",
             "draktNr": 4,
             "serve": 0,
             "angrep": 19,
@@ -5194,10 +5210,58 @@
             "totalt": 20,
             "kampInfo": {
                 "turnering": "Eliteserien Herrer 06/07",
-                "dato": "",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/2web.html",
-                "motstandere": "Randaberg - Kristiansund VBK",
-                "resultat": "3-2"
+                "dato": "0",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/23web.html",
+                "motstandere": "Dragvoll - Førde VBK",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Gøranson, Kjell Arne",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 13,
+            "serve": 0,
+            "angrep": 19,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 11/12",
+                "dato": "11.12.2011",
+                "url": "http://www.poengliga.no/eliteh/1112/kamper/26web.html",
+                "motstandere": "Kristiansund VBK - Nyborg VBK",
+                "resultat": "0-3"
+            }
+        },
+        {
+            "navn": "Gøranson, Kjell Arne",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 13,
+            "serve": 2,
+            "angrep": 18,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 14/15",
+                "dato": "15.11.2014",
+                "url": "http://www.poengliga.no/eliteh/1415/kamper/16web.html",
+                "motstandere": "NTNUI Volley - Kristiansund VBK",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Jacobsen, Alexander",
+            "klubb": "Oslo Volley",
+            "draktNr": 3,
+            "serve": 2,
+            "angrep": 18,
+            "blokk": 0,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 09/10",
+                "dato": "27.09.2009",
+                "url": "http://www.poengliga.no/eliteh/0910/kamper/3web.html",
+                "motstandere": "Oslo Volley - Randaberg",
+                "resultat": "3-1"
             }
         },
         {
@@ -5233,22 +5297,6 @@
             }
         },
         {
-            "navn": "Jacobsen, Alexander",
-            "klubb": "Oslo Volley",
-            "draktNr": 3,
-            "serve": 2,
-            "angrep": 18,
-            "blokk": 0,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 09/10",
-                "dato": "27.09.2009",
-                "url": "http://www.poengliga.no/eliteh/0910/kamper/3web.html",
-                "motstandere": "Oslo Volley - Randaberg",
-                "resultat": "3-1"
-            }
-        },
-        {
             "navn": "Gøranson, Kjell Arne",
             "klubb": "Kristiansund VBK",
             "draktNr": 13,
@@ -5262,38 +5310,6 @@
                 "url": "http://www.poengliga.no/eliteh/1112/kamper/22web.html",
                 "motstandere": "Kristiansund VBK - Oslo Volley",
                 "resultat": "3-0"
-            }
-        },
-        {
-            "navn": "Gøranson, Kjell Arne",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 13,
-            "serve": 2,
-            "angrep": 18,
-            "blokk": 0,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 14/15",
-                "dato": "15.11.2014",
-                "url": "http://www.poengliga.no/eliteh/1415/kamper/16web.html",
-                "motstandere": "NTNUI Volley - Kristiansund VBK",
-                "resultat": "2-3"
-            }
-        },
-        {
-            "navn": "Holmen, Kim Erik",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 3,
-            "serve": 1,
-            "angrep": 18,
-            "blokk": 1,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 15/16",
-                "dato": "14.11.2015",
-                "url": "http://www.poengliga.no/eliteh/1516/kamper/13web.html",
-                "motstandere": "Kristiansund VBK - NTNUI Volley",
-                "resultat": "1-3"
             }
         },
         {
@@ -5313,6 +5329,22 @@
             }
         },
         {
+            "navn": "Gøranson, K.A.",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 13,
+            "serve": 1,
+            "angrep": 18,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 06/07",
+                "dato": "0",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/21web.html",
+                "motstandere": "Kristiansund VBK - Førde VBK",
+                "resultat": "3-2"
+            }
+        },
+        {
             "navn": "Zylstra, Tony",
             "klubb": "Randaberg",
             "draktNr": 10,
@@ -5329,18 +5361,18 @@
             }
         },
         {
-            "navn": "Godø, Sjur",
+            "navn": "Holmen, Kim Erik",
             "klubb": "Kristiansund VBK",
-            "draktNr": 4,
+            "draktNr": 3,
             "serve": 1,
             "angrep": 18,
             "blokk": 1,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 13/14",
-                "dato": "26.01.2014",
-                "url": "http://www.poengliga.no/eliteh/1314/kamper/44web.html",
-                "motstandere": "Oslo Volley - Kristiansund VBK",
+                "turnering": "Eliteserien Herrer 15/16",
+                "dato": "14.11.2015",
+                "url": "http://www.poengliga.no/eliteh/1516/kamper/13web.html",
+                "motstandere": "Kristiansund VBK - NTNUI Volley",
                 "resultat": "1-3"
             }
         },
@@ -5361,19 +5393,35 @@
             }
         },
         {
-            "navn": "Gøranson, K.A.",
+            "navn": "Godø, Sjur",
             "klubb": "Kristiansund VBK",
-            "draktNr": 13,
+            "draktNr": 4,
             "serve": 1,
             "angrep": 18,
             "blokk": 1,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 06/07",
-                "dato": "0",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/21web.html",
-                "motstandere": "Kristiansund VBK - Førde VBK",
-                "resultat": "3-2"
+                "turnering": "Eliteserien Herrer 13/14",
+                "dato": "26.01.2014",
+                "url": "http://www.poengliga.no/eliteh/1314/kamper/44web.html",
+                "motstandere": "Oslo Volley - Kristiansund VBK",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Inderøy, Ruben",
+            "klubb": "Førde VBK",
+            "draktNr": 14,
+            "serve": 0,
+            "angrep": 18,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "6.02.2008",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/48web.html",
+                "motstandere": "Førde VBK - Nyborg VBK",
+                "resultat": "3-1"
             }
         },
         {
@@ -5441,35 +5489,19 @@
             }
         },
         {
-            "navn": "Inderøy, Ruben",
-            "klubb": "Førde VBK",
-            "draktNr": 14,
-            "serve": 0,
-            "angrep": 18,
-            "blokk": 2,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "6.02.2008",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/48web.html",
-                "motstandere": "Førde VBK - Nyborg VBK",
-                "resultat": "3-1"
-            }
-        },
-        {
-            "navn": "Berntsen, Martin",
-            "klubb": "Førde VBK",
-            "draktNr": 7,
+            "navn": "Stenvig, Daniev",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 17,
             "serve": 3,
             "angrep": 17,
             "blokk": 0,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 06/07",
-                "dato": "17.03.2007",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/52web.html",
-                "motstandere": "Førde VBK - BK Tromsø",
-                "resultat": "1-3"
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "8.03.2008",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/60web.html",
+                "motstandere": "Kristiansund VBK - Førde VBK",
+                "resultat": "2-3"
             }
         },
         {
@@ -5489,19 +5521,35 @@
             }
         },
         {
-            "navn": "Stenvig, Daniev",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 17,
+            "navn": "Berntsen, Martin",
+            "klubb": "Førde VBK",
+            "draktNr": 7,
             "serve": 3,
             "angrep": 17,
             "blokk": 0,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "8.03.2008",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/60web.html",
+                "turnering": "Eliteserien Herrer 06/07",
+                "dato": "17.03.2007",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/52web.html",
+                "motstandere": "Førde VBK - BK Tromsø",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Loftesnes, Mathias",
+            "klubb": "Førde VBK",
+            "draktNr": 5,
+            "serve": 2,
+            "angrep": 17,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 12/13",
+                "dato": "13.01.2013",
+                "url": "http://www.poengliga.no/eliteh/1213/kamper/43web.html",
                 "motstandere": "Kristiansund VBK - Førde VBK",
-                "resultat": "2-3"
+                "resultat": "0-3"
             }
         },
         {
@@ -5521,19 +5569,35 @@
             }
         },
         {
-            "navn": "Loftesnes, Mathias",
-            "klubb": "Førde VBK",
-            "draktNr": 5,
+            "navn": "Lauten, Henrik",
+            "klubb": "Koll",
+            "draktNr": 9,
             "serve": 2,
             "angrep": 17,
             "blokk": 1,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 12/13",
-                "dato": "13.01.2013",
-                "url": "http://www.poengliga.no/eliteh/1213/kamper/43web.html",
-                "motstandere": "Kristiansund VBK - Førde VBK",
-                "resultat": "0-3"
+                "turnering": "Eliteserien Herrer 14/15",
+                "dato": "15.03.2015",
+                "url": "http://www.poengliga.no/eliteh/1415/kamper/40web.html",
+                "motstandere": "Koll - NTNUI Volley",
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Henriksen, Lars I.",
+            "klubb": "BK Tromsø",
+            "draktNr": 11,
+            "serve": 2,
+            "angrep": 17,
+            "blokk": 1,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 08/09",
+                "dato": "7.03.2009",
+                "url": "http://www.poengliga.no/eliteh/0809/kamper/66web.html",
+                "motstandere": "BK Tromsø - Randaberg",
+                "resultat": "1-3"
             }
         },
         {
@@ -5569,22 +5633,6 @@
             }
         },
         {
-            "navn": "Lauten, Henrik",
-            "klubb": "Koll",
-            "draktNr": 9,
-            "serve": 2,
-            "angrep": 17,
-            "blokk": 1,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 14/15",
-                "dato": "15.03.2015",
-                "url": "http://www.poengliga.no/eliteh/1415/kamper/40web.html",
-                "motstandere": "Koll - NTNUI Volley",
-                "resultat": "1-3"
-            }
-        },
-        {
             "navn": "Strømsvåg, Anders",
             "klubb": "Koll",
             "draktNr": 16,
@@ -5601,38 +5649,6 @@
             }
         },
         {
-            "navn": "Henriksen, Lars I.",
-            "klubb": "BK Tromsø",
-            "draktNr": 11,
-            "serve": 2,
-            "angrep": 17,
-            "blokk": 1,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 08/09",
-                "dato": "7.03.2009",
-                "url": "http://www.poengliga.no/eliteh/0809/kamper/66web.html",
-                "motstandere": "BK Tromsø - Randaberg",
-                "resultat": "1-3"
-            }
-        },
-        {
-            "navn": "Kabicze, Marek",
-            "klubb": "Oslo Volley",
-            "draktNr": 12,
-            "serve": 1,
-            "angrep": 17,
-            "blokk": 2,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 12/13",
-                "dato": "3.11.2012",
-                "url": "http://www.poengliga.no/eliteh/1213/kamper/18web.html",
-                "motstandere": "BK Tromsø - Oslo Volley",
-                "resultat": "2-3"
-            }
-        },
-        {
             "navn": "Inderøy, Ruben",
             "klubb": "Førde VBK",
             "draktNr": 14,
@@ -5646,22 +5662,6 @@
                 "url": "http://www.poengliga.no/eliteh/0809/kamper/67web.html",
                 "motstandere": "Nyborg VBK - Førde VBK",
                 "resultat": "3-2"
-            }
-        },
-        {
-            "navn": "Gøranson, Kjell Arne",
-            "klubb": "Kristiansund VBK",
-            "draktNr": 13,
-            "serve": 1,
-            "angrep": 17,
-            "blokk": 2,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 08/09",
-                "dato": "23.11.2008",
-                "url": "http://www.poengliga.no/eliteh/0809/kamper/21web.html",
-                "motstandere": "Randaberg - Kristiansund VBK",
-                "resultat": "3-1"
             }
         },
         {
@@ -5697,22 +5697,6 @@
             }
         },
         {
-            "navn": "Ristic, Ivan",
-            "klubb": "BK Tromsø",
-            "draktNr": 7,
-            "serve": 1,
-            "angrep": 17,
-            "blokk": 2,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 14/15",
-                "dato": "25.10.2014",
-                "url": "http://www.poengliga.no/eliteh/1415/kamper/11web.html",
-                "motstandere": "Nyborg VBK - BK Tromsø",
-                "resultat": "3-2"
-            }
-        },
-        {
             "navn": "Festøy, Sigurd",
             "klubb": "Randaberg",
             "draktNr": 6,
@@ -5729,6 +5713,54 @@
             }
         },
         {
+            "navn": "Gøranson, Kjell Arne",
+            "klubb": "Kristiansund VBK",
+            "draktNr": 13,
+            "serve": 1,
+            "angrep": 17,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 08/09",
+                "dato": "23.11.2008",
+                "url": "http://www.poengliga.no/eliteh/0809/kamper/21web.html",
+                "motstandere": "Randaberg - Kristiansund VBK",
+                "resultat": "3-1"
+            }
+        },
+        {
+            "navn": "Kabicze, Marek",
+            "klubb": "Oslo Volley",
+            "draktNr": 12,
+            "serve": 1,
+            "angrep": 17,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 12/13",
+                "dato": "3.11.2012",
+                "url": "http://www.poengliga.no/eliteh/1213/kamper/18web.html",
+                "motstandere": "BK Tromsø - Oslo Volley",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Ristic, Ivan",
+            "klubb": "BK Tromsø",
+            "draktNr": 7,
+            "serve": 1,
+            "angrep": 17,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 14/15",
+                "dato": "25.10.2014",
+                "url": "http://www.poengliga.no/eliteh/1415/kamper/11web.html",
+                "motstandere": "Nyborg VBK - BK Tromsø",
+                "resultat": "3-2"
+            }
+        },
+        {
             "navn": "Henriksen, Lars I.",
             "klubb": "BK Tromsø",
             "draktNr": 11,
@@ -5742,22 +5774,6 @@
                 "url": "http://www.poengliga.no/eliteh/0809/kamper/2web.html",
                 "motstandere": "BK Tromsø - Nyborg VBK",
                 "resultat": "1-3"
-            }
-        },
-        {
-            "navn": "Olsen, Henning K.",
-            "klubb": "Oslo Volley",
-            "draktNr": 3,
-            "serve": 0,
-            "angrep": 17,
-            "blokk": 3,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 12/13",
-                "dato": "24.11.2012",
-                "url": "http://www.poengliga.no/eliteh/1213/kamper/26web.html",
-                "motstandere": "Randaberg - Oslo Volley",
-                "resultat": "3-2"
             }
         },
         {
@@ -5793,6 +5809,22 @@
             }
         },
         {
+            "navn": "Olsen, Henning K.",
+            "klubb": "Oslo Volley",
+            "draktNr": 3,
+            "serve": 0,
+            "angrep": 17,
+            "blokk": 3,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 12/13",
+                "dato": "24.11.2012",
+                "url": "http://www.poengliga.no/eliteh/1213/kamper/26web.html",
+                "motstandere": "Randaberg - Oslo Volley",
+                "resultat": "3-2"
+            }
+        },
+        {
             "navn": "Helland, Ole M.",
             "klubb": "Randaberg",
             "draktNr": 14,
@@ -5809,19 +5841,35 @@
             }
         },
         {
-            "navn": "Lillehagen, Morten",
-            "klubb": "NTNUI Volley",
+            "navn": "Strømsvåg, Anders",
+            "klubb": "TVN",
             "draktNr": 11,
             "serve": 2,
             "angrep": 16,
             "blokk": 2,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 14/15",
-                "dato": "25.10.2014",
-                "url": "http://www.poengliga.no/eliteh/1415/kamper/13web.html",
-                "motstandere": "NTNUI Volley - Randaberg",
-                "resultat": "1-3"
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "7.10.2007",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/4web.html",
+                "motstandere": "TVN - BK Tromsø",
+                "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Siljander, Ørjan",
+            "klubb": "Nyborg VBK",
+            "draktNr": 9,
+            "serve": 2,
+            "angrep": 16,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 11/12",
+                "dato": "25.09.2011",
+                "url": "http://www.poengliga.no/eliteh/1112/kamper/4web.html",
+                "motstandere": "Nyborg VBK - Kristiansund VBK",
+                "resultat": "3-1"
             }
         },
         {
@@ -5857,35 +5905,19 @@
             }
         },
         {
-            "navn": "Siljander, Ørjan",
-            "klubb": "Nyborg VBK",
-            "draktNr": 9,
-            "serve": 2,
-            "angrep": 16,
-            "blokk": 2,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 11/12",
-                "dato": "25.09.2011",
-                "url": "http://www.poengliga.no/eliteh/1112/kamper/4web.html",
-                "motstandere": "Nyborg VBK - Kristiansund VBK",
-                "resultat": "3-1"
-            }
-        },
-        {
-            "navn": "Strømsvåg, Anders",
-            "klubb": "TVN",
+            "navn": "Lillehagen, Morten",
+            "klubb": "NTNUI Volley",
             "draktNr": 11,
             "serve": 2,
             "angrep": 16,
             "blokk": 2,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "7.10.2007",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/4web.html",
-                "motstandere": "TVN - BK Tromsø",
-                "resultat": "2-3"
+                "turnering": "Eliteserien Herrer 14/15",
+                "dato": "25.10.2014",
+                "url": "http://www.poengliga.no/eliteh/1415/kamper/13web.html",
+                "motstandere": "NTNUI Volley - Randaberg",
+                "resultat": "1-3"
             }
         },
         {
@@ -6033,19 +6065,35 @@
             }
         },
         {
-            "navn": "Hordvik, Øivind",
+            "navn": "Bjelland, Kristian M.",
             "klubb": "Nyborg VBK",
-            "draktNr": 6,
+            "draktNr": 10,
             "serve": 1,
             "angrep": 15,
             "blokk": 4,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 07/08",
-                "dato": "17.02.2008",
-                "url": "http://www.poengliga.no/eliteh/0708/kamper/49web.html",
-                "motstandere": "Nyborg VBK - Oslo Volley",
-                "resultat": "3-2"
+                "turnering": "Eliteserien Herrer 15/16",
+                "dato": "5.12.2015",
+                "url": "http://www.poengliga.no/eliteh/1516/kamper/16web.html",
+                "motstandere": "Kristiansund VBK - Nyborg VBK",
+                "resultat": "0-3"
+            }
+        },
+        {
+            "navn": "Henriksen, Lars I.",
+            "klubb": "BK Tromsø",
+            "draktNr": 11,
+            "serve": 1,
+            "angrep": 15,
+            "blokk": 4,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 08/09",
+                "dato": "25.01.2009",
+                "url": "http://www.poengliga.no/eliteh/0809/kamper/43web.html",
+                "motstandere": "BK Tromsø - Oslo Volley",
+                "resultat": "3-1"
             }
         },
         {
@@ -6065,51 +6113,19 @@
             }
         },
         {
-            "navn": "Eithun, Geir",
-            "klubb": "Førde VBK",
-            "draktNr": 11,
-            "serve": 1,
-            "angrep": 15,
-            "blokk": 4,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 09/10",
-                "dato": "7.02.2010",
-                "url": "http://www.poengliga.no/eliteh/0910/kamper/40web.html",
-                "motstandere": "Førde VBK - Randaberg",
-                "resultat": "3-2"
-            }
-        },
-        {
-            "navn": "Henriksen, Lars I.",
-            "klubb": "BK Tromsø",
-            "draktNr": 11,
-            "serve": 1,
-            "angrep": 15,
-            "blokk": 4,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 09/10",
-                "dato": "1.11.2009",
-                "url": "http://www.poengliga.no/eliteh/0910/kamper/12web.html",
-                "motstandere": "BK Tromsø - Oslo Volley",
-                "resultat": "1-3"
-            }
-        },
-        {
-            "navn": "Bjelland, Kristian M.",
+            "navn": "Hordvik, Øivind",
             "klubb": "Nyborg VBK",
-            "draktNr": 10,
+            "draktNr": 6,
             "serve": 1,
             "angrep": 15,
             "blokk": 4,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 15/16",
-                "dato": "5.12.2015",
-                "url": "http://www.poengliga.no/eliteh/1516/kamper/16web.html",
-                "motstandere": "Kristiansund VBK - Nyborg VBK",
-                "resultat": "0-3"
+                "turnering": "Eliteserien Herrer 07/08",
+                "dato": "17.02.2008",
+                "url": "http://www.poengliga.no/eliteh/0708/kamper/49web.html",
+                "motstandere": "Nyborg VBK - Oslo Volley",
+                "resultat": "3-2"
             }
         },
         {
@@ -6137,11 +6153,27 @@
             "blokk": 4,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 08/09",
-                "dato": "25.01.2009",
-                "url": "http://www.poengliga.no/eliteh/0809/kamper/43web.html",
+                "turnering": "Eliteserien Herrer 09/10",
+                "dato": "1.11.2009",
+                "url": "http://www.poengliga.no/eliteh/0910/kamper/12web.html",
                 "motstandere": "BK Tromsø - Oslo Volley",
-                "resultat": "3-1"
+                "resultat": "1-3"
+            }
+        },
+        {
+            "navn": "Eithun, Geir",
+            "klubb": "Førde VBK",
+            "draktNr": 11,
+            "serve": 1,
+            "angrep": 15,
+            "blokk": 4,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 09/10",
+                "dato": "7.02.2010",
+                "url": "http://www.poengliga.no/eliteh/0910/kamper/40web.html",
+                "motstandere": "Førde VBK - Randaberg",
+                "resultat": "3-2"
             }
         },
         {
@@ -6209,22 +6241,6 @@
             }
         },
         {
-            "navn": "Torsteinsen, Rune",
-            "klubb": "BK Tromsø",
-            "draktNr": 9,
-            "serve": 0,
-            "angrep": 14,
-            "blokk": 6,
-            "totalt": 20,
-            "kampInfo": {
-                "turnering": "Eliteserien Herrer 06/07",
-                "dato": "01.10.06",
-                "url": "http://www.poengliga.no/eliteh/0607/kamper/6web.html",
-                "motstandere": "BK Tromsø - Førde VBK",
-                "resultat": "3-0"
-            }
-        },
-        {
             "navn": "Eithun, Geir",
             "klubb": "Førde VBK",
             "draktNr": 2,
@@ -6257,18 +6273,18 @@
             }
         },
         {
-            "navn": "Rønneberg, Gøran",
-            "klubb": "Randaberg",
-            "draktNr": 11,
-            "serve": 5,
-            "angrep": 13,
-            "blokk": 2,
+            "navn": "Torsteinsen, Rune",
+            "klubb": "BK Tromsø",
+            "draktNr": 9,
+            "serve": 0,
+            "angrep": 14,
+            "blokk": 6,
             "totalt": 20,
             "kampInfo": {
-                "turnering": "Eliteserien Herrer 09/10",
-                "dato": "23.01.2010",
-                "url": "http://www.poengliga.no/eliteh/0910/kamper/32web.html",
-                "motstandere": "Randaberg - Kristiansund VBK",
+                "turnering": "Eliteserien Herrer 06/07",
+                "dato": "01.10.06",
+                "url": "http://www.poengliga.no/eliteh/0607/kamper/6web.html",
+                "motstandere": "BK Tromsø - Førde VBK",
                 "resultat": "3-0"
             }
         },
@@ -6286,6 +6302,22 @@
                 "url": "http://www.poengliga.no/eliteh/1011/kamper/15web.html",
                 "motstandere": "Oslo Volley - Kristiansund VBK",
                 "resultat": "2-3"
+            }
+        },
+        {
+            "navn": "Rønneberg, Gøran",
+            "klubb": "Randaberg",
+            "draktNr": 11,
+            "serve": 5,
+            "angrep": 13,
+            "blokk": 2,
+            "totalt": 20,
+            "kampInfo": {
+                "turnering": "Eliteserien Herrer 09/10",
+                "dato": "23.01.2010",
+                "url": "http://www.poengliga.no/eliteh/0910/kamper/32web.html",
+                "motstandere": "Randaberg - Kristiansund VBK",
+                "resultat": "3-0"
             }
         },
         {

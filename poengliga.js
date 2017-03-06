@@ -85,18 +85,18 @@ function scrapeStats(baseUrl, fileName, callback){
 
 app.get('/herrer/', function(req, res){
   var baseUrl = 'http://poengliga.no/pl_player_show_detail.php?id=';
-  scrapeStats(baseUrl, 'herrer.json', function(json){
+  scrapeStats(baseUrl, 'players_herrer.json', function(json){
     res.send(json);
   });
 })
 
 app.get('/damer/', function(req, res){
   var baseUrl = 'http://poengliga.no/pl_player_show_detail_w.php?id=';
-  scrapeStats(baseUrl, 'damer.json', function(json){
+  scrapeStats(baseUrl, 'players_damer.json', function(json){
     res.send(json);
   });
 })
 
 app.listen('8081')
-console.log('kjører på localhost:8081');
+console.log('Open localhost:8081/damer or localhost:8081/herrer in a browser.');
 exports = module.exports = app;
