@@ -1,12 +1,13 @@
 {
-  "name"         : "VolleyballScraper",
-  "version"      : "0.0.1",
-  "description"  : "Skrap profixio for resultater.",
-  "main"         : "elitemenn.js",
-  "author"       : "John Wika Haakseth",
-  "dependencies" : {
-    "express"    : "latest",
-    "request"    : "latest",
-    "cheerio"    : "latest"
+  "name": "VolleyballScraper",
+  "version": "0.0.1",
+  "description": "Skrap poengliga for statistikker.",
+  "main": "statsFromGames.js",
+  "author": "John Wika Haakseth",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "iconv": "^2.2.1",
+    "request": "latest"
   }
 }
